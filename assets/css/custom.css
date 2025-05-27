@@ -19,3 +19,9 @@
 .image-wrapper.bg-cover::before {
   background: rgba(30, 34, 40, 0.65);
 }
+
+.certificate-img {
+  min-height: 9rem;
+  max-height: 9rem;
+  border: 0.4rem;
+}
