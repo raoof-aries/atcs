@@ -1,0 +1,21 @@
+.header-logo {
+  width: 7.5rem;
+}
+
+.footer-logo {
+  width: 8.5rem;
+}
+
+.cstm-btn-black {
+  background-color: #343f52;
+  color: #fff;
+}
+
+.cstm-hero-desc {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.image-wrapper.bg-cover::before {
+  background: rgba(30, 34, 40, 0.65);
+}
