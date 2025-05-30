@@ -25,3 +25,23 @@
   max-height: 9rem;
   border: 0.4rem;
 }
+
+.footer-a {
+  font-size: 0.8rem !important;
+}
+
+.footer-subtitle {
+  font-size: 0.95rem;
+}
+
+address {
+  margin-bottom: 0.5rem;
+}
+
+.cstm-footer-bg {
+  background-color: #393a41;
+}
+
+.text-muted {
+  color: #d84040 !important;
+}
