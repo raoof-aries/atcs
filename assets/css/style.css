@@ -40517,12 +40517,12 @@ footer.bg-dark,
   border-top-color: transparent !important;
   border-bottom-color: transparent !important;
 }
-.wrapper.angled.lower-end:after {
+/* .wrapper.angled.lower-end:after {
   border-left-color: transparent !important;
   border-right-width: 100vw;
   border-bottom-width: 4rem;
   bottom: -4rem;
-}
+} */
 .wrapper.angled.lower-start:after {
   border-right-color: transparent !important;
   border-left-width: 100vw;
