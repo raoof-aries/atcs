@@ -45,11 +45,11 @@
                 <!--/.row -->
             </div>
             <!--/column -->
-            <div class="col-lg-6">
+            <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">
                     Riding squad
                 </h2>
-                <p class="lead fs-lg mb-8 pe-xxl-2">
+                <p class="lead mb-8 pe-xxl-2">
                     Our Riding squad has successfully completed 500 projects worldwide. Our experienced & versatile team including 160 crew with valid seamen book and other safety certificates assist clients to keep their vessels running at lowest possible cost by reducing the steel repair and dry-docking duration. Our achievement is a cost effective and efficient coating maintenance & Steel repair service.
                 </p>
             </div>
@@ -130,6 +130,169 @@
                         <h4>Pipe Line Cleaning Program</h4>
                         <p class="">
                             Protection from internal corrosion, free flow and Reducing pipe renewal intervals
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+        </div>
+        <!--/.row -->
+
+    </div>
+    <!-- /.container -->
+</section>
+
+<section class="mt-5 mt-md-12 mb-15">
+    <div class="container">
+        <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+            <div class="col-12">
+                <h3 class="display-4 mb-5">Advantages of Aries riding team</h3>
+                <!-- <p class="mb-5">Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo.</p> -->
+                <div class="row gy-3">
+                    <div class="col-xl-6">
+                        <ul class="icon-list bullet-bg bullet-soft-yellow mb-0">
+                            <li><span><i class="uil uil-check"></i></span><span>
+                                    Completed around 1000 major repair projects during sailing with all major shipping companies around the globe
+                                </span></li>
+                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>
+                                    Holding long term repair contract with major oil/gas carriers
+                                </span>
+                            </li>
+                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>
+                                    Pool of experienced Coating inspectors/Supervisors to assure the job quality and well experienced Hydro blasting and painting team.
+                                </span>
+                            </li>
+                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>
+                                    Crews with Valid US/Schengen visas with national CDC to travel around the world.
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--/column -->
+                    <div class="col-xl-6">
+                        <ul class="icon-list bullet-bg bullet-soft-yellow mb-0">
+                            <li><span><i class="uil uil-check"></i></span><span>
+                                    Local stations and logistics facilities to Far east/middle east and Europe sector.
+                                </span></li>
+                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>
+                                    Furnished with all advanced equipment (Explosion proof hydro blasters/scaffolding materials/Advanced power tooling equipment and coating application tools)
+                                </span>
+                            </li>
+                            <li class="mt-3"><span><i class="uil uil-check"></i></span><span>
+                                    Class certified Riding fitters with shipyard experience.
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--/column -->
+
+                    <div class="col-12">
+                        <p>
+                            We trust our dedicated team of qualified IRATA certified abseilers, trained blasters, power tooling crews, welders, fabricators, deck fitters, painters and scaffolders along with necessary equipment can undertake all kinds of on-board maintenance programs to provide optimum life protection against corrosion without interrupting the normal activities to succeed in today’s competitive market.
+                        </p>
+                    </div>
+
+                </div>
+                <!--/.row -->
+            </div>
+            <!--/column -->
+        </div>
+    </div>
+</section>
+
+<section class="wrapper bg-soft-primary">
+    <div class="container py-14 py-md-12">
+        <h2 class="display-4 mb-5 text-center pb-3">
+            Our riding squad maintenance specialties as follows
+        </h2>
+        <div class="row gx-md-5 gy-5 mb-14 mb-md-17">
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-yellow h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>01</h2>
+                        <p class="">
+                            Ultra-High-Pressure Hydro blasters -Explosion Proof with air compressor (2800 Bar)
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-green h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>02</h2>
+                        <p class="">
+                            Diesel Driven Ultra-High-Pressure hydro blasters (2800 Bar)
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-orange h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>03</h2>
+                        <p class="">
+                            Water blaster up to 1000 Bar for the de rusting (Diesel Driven/ Ex. Proof Electrical)
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-blue h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>04</h2>
+                        <p class="">
+                            Hand tools (Rust-pickers, Scrapers, Chipping hammers or chisels, Wire brush)
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+            <!--/column -->
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-green h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>05</h2>
+                        <p class="">Airless Spray-painting machine.
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+            <!--/column -->
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-blue h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>06</h2>
+                        <p class="">Scaffolding Materials.
+                        </p>
+                    </div>
+                    <!--/.card-body -->
+                </div>
+                <!--/.card -->
+            </div>
+            <!--/column -->
+            <!--/column -->
+            <div class="col-md-6 col-xl-3">
+                <div class="card shadow-lg card-border-bottom border-soft-orange h-100">
+                    <div class="card-body serviceCardCstm">
+                        <h2>07</h2>
+                        <p class="">
+                            Experienced multitalented riding crews capable of doing all type of surface preparations, Scaffolding erection & dismantling and Airless Spray application etc.
                         </p>
                     </div>
                     <!--/.card-body -->

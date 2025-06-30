@@ -78,16 +78,16 @@
                                                     data-bs-toggle="dropdown">OCTG Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services.html">Drill Pipe Inspection</a>
+                                                        <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Inspection</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services2.html">Tubing & Casing Inspection</a>
+                                                        <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services2.html">Bottom Hole Assembly Inspection</a>
+                                                        <a class="dropdown-item" href="bottom-hole-assembly-inspection">Bottom Hole Assembly Inspection</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services2.html">Drilling Handling Tools & CAT IV Inspection</a>
+                                                        <a class="dropdown-item" href="drilling-handling-tools">Drilling Handling Tools & CAT IV Inspection</a>
                                                     </li>
                                                 </ul>
                                             </li>
@@ -98,16 +98,16 @@
                                                     data-bs-toggle="dropdown">Corrosion Control Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services.html">Riding Squad</a>
+                                                        <a class="dropdown-item" href="riding-squad">Riding Squad</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services2.html">Hydro Jetting Services</a>
+                                                        <a class="dropdown-item" href="hydro-jetting-services">Hydro Jetting Services</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services2.html">Coating Inspection & Assessment</a>
+                                                        <a class="dropdown-item" href="coating-inspection">Coating Inspection & Assessment</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="./services2.html">Helideck Maintenance</a>
+                                                        <a class="dropdown-item" href="helideck-maintenance">Helideck Maintenance</a>
                                                     </li>
                                                 </ul>
                                             </li>
