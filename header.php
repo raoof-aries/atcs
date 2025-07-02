@@ -74,8 +74,7 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="#"
-                                                    data-bs-toggle="dropdown">OCTG Services</a>
+                                                    href="octg-inspection">OCTG Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Inspection</a>
@@ -94,8 +93,7 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="#"
-                                                    data-bs-toggle="dropdown">Corrosion Control Services</a>
+                                                    href="corrosion-control-services">Corrosion Control Services</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="riding-squad">Riding Squad</a>
@@ -112,7 +110,7 @@
                                                 </ul>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="dropdown-item" href="./pricing.html">Marine & Offshore <br /> Fabrication Services</a>
+                                                <a class="dropdown-item" href="marine-offshore-fabrication-services">Marine & Offshore <br /> Fabrication Services</a>
                                             </li>
 
 

@@ -1,10 +1,10 @@
 <footer class="cstm-footer-bg text-inverse ">
     <div class="container  py-6 py-md-6">
         <div class="row gy-6 gy-lg-0">
-            <div class="col-lg-8">
+            <div class="col-lg-6">
                 <div class="widget">
                     <img class="mb-4 footer-logo" src="./assets/img/custom/logo.png" alt="" />
-                    <p class="mb-4">© <script>
+                    <p class="mb-4 text-start">© <script>
                             document.write(new Date().getUTCFullYear());
                         </script> Aries e-Solutions. All rights reserved.</p>
                     <nav class="nav social social-white">
@@ -22,7 +22,7 @@
             <!-- /column -->
             <div class="col-md-4 col-lg-2">
                 <div class="widget">
-                    <h4 class="widget-title mb-3 text-white footer-subtitle">Quick Links</h4>
+                    <h4 class="widget-title mb-3 text-white footer-subtitle text-start">Quick Links</h4>
                     <ul class="list-unstyled mb-0">
                         <li><a href="#" class="footer-a">Home</a></li>
                         <li><a href="#" class="footer-a">About Us</a></li>
@@ -33,11 +33,17 @@
                 <!-- /.widget -->
             </div>
             <!-- /column -->
-            <div class="col-md-4 col-lg-2">
+            <div class="col-md-4 col-lg-4">
                 <div class="widget">
-                    <h4 class="widget-title mb-3 text-white footer-subtitle">Get in Touch</h4>
-                    <address>Moonshine St. 14/05 Light City, London, United Kingdom</address>
-                    <a href="mailto:first.last@email.com">info@email.com</a><br /> 00 (123) 456 78 90
+                    <h4 class="widget-title mb-3 text-white footer-subtitle text-start">Get in Touch</h4>
+                    <address>
+                        Aries Trading Contracting and Services WLL
+                        Birkat Al Awamer, Doha, Qatar
+                        Building No: 42, Street No: 3016, Zone No: 91
+
+                    </address>
+                    <a href="mailto:repairs.qa@ariesmar.com">repairs.qa@ariesmar.com</a><br />
+                    <a href="tel:00974 44174897">00974 44174897</a><br />
                 </div>
                 <!-- /.widget -->
             </div>

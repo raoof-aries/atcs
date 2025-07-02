@@ -69,3 +69,7 @@ p {
   border-color: #fbe7f5;
 }
 /* end card border colors */
+
+.coreStrengthTextContainer p {
+  text-align: left;
+}
