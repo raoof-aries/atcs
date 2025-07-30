@@ -1,0 +1,3 @@
+navbar initial position color 
+drop down color
+what we do (color change sections)

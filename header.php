@@ -112,6 +112,11 @@
                                             <li class="nav-item">
                                                 <a class="dropdown-item" href="marine-offshore-fabrication-services">Marine & Offshore <br /> Fabrication Services</a>
                                             </li>
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="load-testing">
+                                                    Load Testing, Wire Rope Socketing<br> & Wire Rope Spooling Solutions
+                                                </a>
+                                            </li>
 
 
                                         </ul>
