@@ -3,11 +3,11 @@
     <div class="container pt-17 pb-17 pt-md-17 pb-md-17 text-center">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h1 class="display-1 mb-3 text-white">Drilling Handling Tools Dismantling, Servicing & Reassembling</h1>
+                <h1 class="display-1 mb-3 text-white">High Pressure Washing/Blasting Service</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Drilling Handling Tools Dismantling, Servicing & Reassembling</li>
+                        <li class="breadcrumb-item active" aria-current="page">High Pressure Washing/Blasting Service</li>
                     </ol>
                 </nav>
                 <!-- /nav -->
@@ -47,19 +47,16 @@
             <!--/column -->
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">
-                    Drilling Handling Tools Dismantling, Servicing & Reassembling
+                    High Pressure Washing/Blasting Service
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
-                    We specialize in dismantling, servicing, and reassembling drilling handling tools. Our trained staff ensures that all components are thoroughly inspected and serviced, providing you with confidence in your tools’ performance.
+                    Our high pressure washing and blasting services remove contaminants and buildup, restoring your equipment to optimal condition. This thorough cleaning method is essential for maintaining the integrity of your machinery and prolonging its life.
                 </p>
             </div>
             <!--/column -->
         </div>
     </div>
 </section>
-
-
-
 
 
 <?php include('footer.php'); ?>

@@ -3,11 +3,11 @@
     <div class="container pt-17 pb-17 pt-md-17 pb-md-17 text-center">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h1 class="display-1 mb-3 text-white">Drilling Handling Tools Dismantling, Servicing & Reassembling</h1>
+                <h1 class="display-1 mb-3 text-white">Deployment of Class-Certified Welders (4G to 6G) & Fabricators During Sailing</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Drilling Handling Tools Dismantling, Servicing & Reassembling</li>
+                        <li class="breadcrumb-item active" aria-current="page">Deployment of Class-Certified Welders (4G to 6G) & Fabricators During Sailing</li>
                     </ol>
                 </nav>
                 <!-- /nav -->
@@ -47,19 +47,16 @@
             <!--/column -->
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">
-                    Drilling Handling Tools Dismantling, Servicing & Reassembling
+                    Deployment of Class-Certified Welders (4G to 6G) & Fabricators During Sailing
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
-                    We specialize in dismantling, servicing, and reassembling drilling handling tools. Our trained staff ensures that all components are thoroughly inspected and serviced, providing you with confidence in your tools’ performance.
+                    We provide highly skilled, class-certified welders (4G to 6G) and fabricators to carry out critical repairs and fabrication work while the vessel is in operation. Our team ensures minimal downtime and adherence to the highest safety and quality standards during sailing.
                 </p>
             </div>
             <!--/column -->
         </div>
     </div>
 </section>
-
-
-
 
 
 <?php include('footer.php'); ?>

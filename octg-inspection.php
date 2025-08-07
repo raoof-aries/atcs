@@ -38,7 +38,10 @@
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">Octg Inspection</h2>
                 <p class="mb-4">
-                    Our aim is to serve the oil companies by providing timely, high-quality, cost-effective Tubular Inspection Services locally. We have a highly experienced Panel of Inspectors who can be deputed within a short time for the Inspection of Tubulars, BHA and drill string components.
+                    Our aim is to serve the drilling industry by providing timely, high-quality, cost-effective maintenance Services locally. Our experienced team employs the latest technology and techniques to ensure your equipment operates at peak performance.
+                </p>
+                <p class="mb-4">
+                    With a focus on quality and customer satisfaction, we ensure that our services meet the highest standards of safety and excellence. Contact us today to learn more about how we can support your drilling operations!
                 </p>
 
 

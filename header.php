@@ -74,20 +74,74 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="octg-inspection">OCTG Services</a>
+                                                    href="octg-inspection">OCTG maintenance and repair services</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Inspection</a>
                                                     </li>
                                                     <li class="nav-item">
+                                                        <a class="dropdown-item" href="refacing-service">
+                                                            Refacing Service for API Connections
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="thread-inspection">
+                                                            Thread Inspection and Repair
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="drilling-handling-tools">
+                                                            Drilling Handling Tools<br> dismantling, servicing & reassembling
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="high-pressure-washing">
+                                                            High pressure washing
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="yard-facility">
+                                                            Yard Facility for Storage and Maintenance
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="deployment-class-certified">
+                                                            Deployment of Class-Certified Welders <br>(4G to 6G) & Fabricators During Sailing
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="structural-steel-repairs">
+                                                            Structural Steel Repairs
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="structural-piping-modifications">
+                                                            Structural & Piping Modifications
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="port-based-fabrication-services">
+                                                            Port-Based Fabrication Services
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="pre-fabrication-offshore-installation">
+                                                            Pre-Fabrication & Offshore Installation
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="sea-fastening-services">
+                                                            Sea fastening services for offshore mobilizations
+                                                        </a>
+                                                    </li>
+                                                    <!-- <li class="nav-item">
                                                         <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="bottom-hole-assembly-inspection">Bottom Hole Assembly Inspection</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="drilling-handling-tools">Drilling Handling Tools & CAT IV Inspection</a>
-                                                    </li>
+                                                    </li> -->
+
+
                                                 </ul>
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend">
@@ -109,14 +163,37 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="nav-item">
+                                            <!-- <li class="nav-item">
                                                 <a class="dropdown-item" href="marine-offshore-fabrication-services">Marine & Offshore <br /> Fabrication Services</a>
-                                            </li>
-                                            <li class="nav-item">
+                                            </li> -->
+                                            <!-- <li class="nav-item">
                                                 <a class="dropdown-item" href="load-testing">
                                                     Load Testing, Wire Rope Socketing<br> & Wire Rope Spooling Solutions
                                                 </a>
+                                            </li> -->
+
+                                            <!-- new -->
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="">
+                                                    Pressure testing and valve repair services
+                                                </a>
                                             </li>
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="load-testing">
+                                                    Load testing services
+                                                </a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="">
+                                                    Wire rope socketing and spooling services
+                                                </a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="">
+                                                    Welding and fabrication services
+                                                </a>
+                                            </li>
+                                            <!-- end new -->
 
 
                                         </ul>
