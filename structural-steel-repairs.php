@@ -26,15 +26,15 @@
             <div class="col-lg-6 order-lg-2">
                 <div class="row gx-md-5 gy-5">
                     <div class="col-md-4 offset-md-2 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g1.jpg" srcset="./assets/img/photos/g1@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-top-left.png" srcset="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-top-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g2.jpg" srcset="./assets/img/photos/g2@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-top-right.png" srcset="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-top-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 offset-md-1">
-                        <figure class="rounded"><img src="./assets/img/photos/g3.jpg" srcset="./assets/img/photos/g3@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-bottom-left.png" srcset="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-bottom-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
