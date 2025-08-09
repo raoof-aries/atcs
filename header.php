@@ -104,6 +104,21 @@
                                                             Yard Facility for Storage and Maintenance
                                                         </a>
                                                     </li>
+                                                    <!-- <li class="nav-item">
+                                                        <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="bottom-hole-assembly-inspection">Bottom Hole Assembly Inspection</a>
+                                                    </li> -->
+
+
+                                                </ul>
+                                            </li>
+                                            <li class="dropdown dropdown-submenu dropend">
+                                                <a
+                                                    class="dropdown-item dropdown-toggle"
+                                                    href="octg-inspection">Welding and Fabrication Services</a>
+                                                <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="deployment-class-certified">
                                                             Deployment of Class-Certified Welders <br>(4G to 6G) & Fabricators During Sailing
@@ -188,11 +203,7 @@
                                                     Wire rope socketing and spooling services
                                                 </a>
                                             </li>
-                                            <li class="nav-item">
-                                                <a class="dropdown-item" href="">
-                                                    Welding and fabrication services
-                                                </a>
-                                            </li>
+
                                             <!-- end new -->
 
 
