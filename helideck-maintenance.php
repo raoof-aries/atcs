@@ -26,19 +26,19 @@
             <div class="col-lg-6 order-lg-2">
                 <div class="row gx-md-5 gy-5">
                     <div class="col-md-4 offset-md-2 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g1.jpg" srcset="./assets/img/photos/g1@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-top-left.png" srcset="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-top-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g2.jpg" srcset="./assets/img/photos/g2@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-top-right.png" srcset="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-top-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 offset-md-1">
-                        <figure class="rounded"><img src="./assets/img/photos/g3.jpg" srcset="./assets/img/photos/g3@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-bottom-left.png" srcset="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-bottom-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/g4.jpg" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/corrosion-control-services/Helideck/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>
@@ -50,24 +50,20 @@
                     Helideck Maintenance
                 </h2>
                 <p class="lead mb-3 pe-xxl-2">
-                    To maintain CAP 437 requirements by sufficient friction and required markings.
-                </p>
-                <p class="lead mb-3 pe-xxl-2">
-                    In an ever-changing environment, a compliant helideck is essential for your offshore operations. Aries have well experienced offshore and onshore team to do the coating maintenance on different types helidecks including Aluminum to comply the CAP 437 regulations.
+                    Aries has well-experienced offshore and onshore teams to
+                    perform coating maintenance on different types of helidecks including Aluminium to comply with CAP 437 regulations.
                 </p>
             </div>
             <!--/column -->
         </div>
     </div>
 </section>
-<section>
+<!-- <section>
     <div class="container">
         <div class="row gx-lg-8 gx-xl-12 gy-10 mb-lg-15 align-items-center">
-
             <div class="col-lg-6">
                 <figure><img class="w-auto" src="assets/esol/img/helideckPainting/top-view-yellow-helicopter-helipad.webp" alt="" /></figure>
             </div>
-            <!--/column -->
             <div class="col-lg-6">
                 <h3 class="display-4 mb-7">Helideck Blasting Painting Team Specialties As Follows</h3>
                 <div class="accordion accordion-wrapper" id="accordionExample">
@@ -75,7 +71,6 @@
                         <div class="card-header" id="headingOne">
                             <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Surface Preparation</button>
                         </div>
-                        <!--/.card-header -->
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                             <div class="card-body">
                                 <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
@@ -93,18 +88,14 @@
                                     </li>
                                 </ul>
                             </div>
-                            <!--/.card-body -->
                         </div>
-                        <!--/.accordion-collapse -->
                     </div>
-                    <!--/.accordion-item -->
                     <div class="card plain accordion-item mb-3">
                         <div class="card-header" id="headingTwo">
                             <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                 Protective Coatings
                             </button>
                         </div>
-                        <!--/.card-header -->
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="card-body">
                                 <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
@@ -126,18 +117,14 @@
                                     </li>
                                 </ul>
                             </div>
-                            <!--/.card-body -->
                         </div>
-                        <!--/.accordion-collapse -->
                     </div>
-                    <!--/.accordion-item -->
                     <div class="card plain accordion-item">
                         <div class="card-header" id="headingThree">
                             <button class="collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                 Tools & Equipment
                             </button>
                         </div>
-                        <!--/.card-header -->
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="card-body">
                                 <ul class="icon-list bullet-bg bullet-soft-primary mb-0">
@@ -171,18 +158,13 @@
                                     </li>
                                 </ul>
                             </div>
-                            <!--/.card-body -->
                         </div>
-                        <!--/.accordion-collapse -->
                     </div>
-                    <!--/.accordion-item -->
                 </div>
-                <!--/.accordion -->
             </div>
-            <!--/column -->
         </div>
     </div>
-</section>
+</section> -->
 
 
 

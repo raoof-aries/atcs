@@ -26,19 +26,19 @@
             <div class="col-lg-6 order-lg-2">
                 <div class="row gx-md-5 gy-5">
                     <div class="col-md-4 offset-md-2 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g1.jpg" srcset="./assets/img/photos/g1@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-top-left.png" srcset="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-top-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g2.jpg" srcset="./assets/img/photos/g2@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-top-right.png" srcset="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-top-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 offset-md-1">
-                        <figure class="rounded"><img src="./assets/img/photos/g3.jpg" srcset="./assets/img/photos/g3@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-bottom-left.png" srcset="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-bottom-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/g4.jpg" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/corrosion-control-services/riding-squad/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>
@@ -49,9 +49,36 @@
                 <h2 class="display-4 mb-3">
                     Riding squad
                 </h2>
-                <p class="lead mb-8 pe-xxl-2">
-                    Our Riding squad has successfully completed 500 projects worldwide. Our experienced & versatile team including 160 crew with valid seamen book and other safety certificates assist clients to keep their vessels running at lowest possible cost by reducing the steel repair and dry-docking duration. Our achievement is a cost effective and efficient coating maintenance & Steel repair service.
-                </p>
+                <ul class="icon-list bullet-bg bullet-soft-primary">
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Ballast Tanks Maintenance Program
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Deck Maintenance Program
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Accommodation Maintenance Program
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Pipeline Cleaning Program
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            HVAC/Insulation and Cladding
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Cargo Hold Maintenance
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Cleaning Jobs Ballast tank Mud cleaning
+                        </span>
+                    </li>
+                </ul>
             </div>
             <!--/column -->
         </div>

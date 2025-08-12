@@ -26,19 +26,19 @@
             <div class="col-lg-6 order-lg-2">
                 <div class="row gx-md-5 gy-5">
                     <div class="col-md-4 offset-md-2 align-self-end">
-                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/top-left.jpg" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/top-left.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-top-left.png" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-top-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 align-self-end">
-                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/top-right.jpg" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/top-right.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-top-right.png" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-top-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 offset-md-1">
-                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/bottom-left.jpg" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/bottom-left.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-bottom-left.png" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-bottom-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/bottom-right.jpg" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/bottom-right.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/OCTG-maintenance/drill-pipe-straightening/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>

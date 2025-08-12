@@ -26,19 +26,19 @@
             <div class="col-lg-6 order-lg-2">
                 <div class="row gx-md-5 gy-5">
                     <div class="col-md-4 offset-md-2 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g1.jpg" srcset="./assets/img/photos/g1@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-top-left.png" srcset="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-top-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/g2.jpg" srcset="./assets/img/photos/g2@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-top-right.png" srcset="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-top-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 offset-md-1">
-                        <figure class="rounded"><img src="./assets/img/photos/g3.jpg" srcset="./assets/img/photos/g3@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-bottom-left.png" srcset="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-bottom-left.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/g4.jpg" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/corrosion-control-services/hydro-jetting/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>
@@ -49,9 +49,50 @@
                 <h2 class="display-4 mb-3">
                     Hydro Jetting Services
                 </h2>
-                <p class="lead mb-8 pe-xxl-2">
-                    Our Hydro jetting water services is able to provide high and ultra-high pressure water-jet pump units up to 40,000psi utilizing the latest hydro-blasting/Jetting technology and tools available in the market.
-                </p>
+                <ul class="icon-list bullet-bg bullet-soft-primary">
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Surface preparation
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Exchanger & condenser tubes
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Internal and external coatings removal
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Drill pipe cleaning
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Lancing of Pipelines and Grey Water Lines at Offshore Rig
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Drain Line Cleaning at Shipyards
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Internal Cleaning of Tube Line
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Industrial blasting & Coatings-Drilling handling tools,
+                            Containers, Pipelines, Racks, skids, Bolts, Flanges,
+                            Pressure vessels etc.
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Pipeline internal blasting and coating
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Silo tank cleaning & refurbishment
+                        </span>
+                    </li>
+                </ul>
             </div>
             <!--/column -->
         </div>

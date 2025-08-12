@@ -27,10 +27,10 @@
                 <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
                 <div class="overlap-grid overlap-grid-2">
                     <div class="item">
-                        <figure class="rounded shadow"><img src="./assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded shadow"><img src="assets/esol/img/service-images/corrosion-control-services/Introduction/parent-service-900.png" srcset="assets/esol/img/service-images/corrosion-control-services/Introduction/parent-service-900.png 2x" alt=""></figure>
                     </div>
                     <div class="item">
-                        <figure class="rounded shadow"><img src="./assets/img/photos/about3.jpg" srcset="./assets/img/photos/about3@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded shadow"><img src="assets/esol/img/service-images/corrosion-control-services/Introduction/parent-service-900-2.png" srcset="assets/esol/img/service-images/corrosion-control-services/Introduction/parent-service-900-2.png 2x" alt=""></figure>
                     </div>
                 </div>
             </div>
@@ -38,12 +38,14 @@
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">Corrosion Control Services</h2>
                 <p class="mb-4">
-                    Aries Corrosion Control & Management services is molded out by a group of corrosion experts to deliver prompt solutions like Deck Coating Upgradation/ Maintenance, Ballast Tank Coating Maintenance, Cargo Holds washing & Coating maintenance, Helideck Blasting & painting, Hydro jetting services, lancing services , Industrial coating services & Coating Condition Survey.
-                </p>
-                <p class="">
-                    Offshore/ Marine structures are built irrespective of the atmospheric conditions to which they are exposed. Hence, proper coating procedure is crucial for any offshore/marine structure for preserving and maintaining it as good as new. This relies on procedures which include proper surface treatment techniques, required coating materials and methods of applications.
-                    Aries Corrosion Control & Management services is an Aries Group venture molded out by a group of corrosion experts to deliver prompt solution for extending the life of structural elements, metal/non-metal, doctored by proper analysis and treatment.
-
+                    Aries Corrosion Control & Management services is molded out by a group of
+                    corrosion experts to deliver prompt solutions for extending the life of structural
+                    elements, metal/non-metal, doctored by proper analysis and treatment.
+                    Offshore/Marine structures are built irrespective of the atmospheric conditions
+                    to which they are exposed. Hence, proper coating procedure is crucial for any
+                    offshore/marine structure for preserving and maintaining it as good as new.
+                    This relies on procedures which include proper surface treatment techniques,
+                    required coating materials and methods of applications.
                 </p>
 
 

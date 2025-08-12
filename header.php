@@ -171,7 +171,7 @@
                                                         <a class="dropdown-item" href="hydro-jetting-services">Hydro Jetting Services</a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="coating-inspection">Coating Inspection & Assessment</a>
+                                                        <a class="dropdown-item" href="abrasive-blasting">Abrasive Blasting And Painting</a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="helideck-maintenance">Helideck Maintenance</a>
