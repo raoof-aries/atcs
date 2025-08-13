@@ -188,15 +188,69 @@
                                             </li> -->
 
                                             <!-- new -->
-                                            <li class="nav-item">
-                                                <a class="dropdown-item" href="">
+                                            <li class="dropdown dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="pressure-testing-valve-repair">
                                                     Pressure testing and valve repair services
                                                 </a>
+                                                <ul class="dropdown-menu">
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="pressure-testing-services">
+                                                            Pressure Testing Services
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="valve-repair-servicing">
+                                                            Valve Repair & Servicing
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="flow-meter-calibration">
+                                                            Flow Meter Calibration
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="load-cell-calibration">
+                                                            Load Cell Calibration
+                                                        </a>
+                                                    </li>
+                                                </ul>
                                             </li>
-                                            <li class="nav-item">
-                                                <a class="dropdown-item" href="load-testing">
+                                            <li class="dropdown dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="load-testing">
                                                     Load testing services
                                                 </a>
+                                                <ul class="dropdown-menu">
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="load-testing-blocks">
+                                                            Load Testing Blocks up to 200 tons
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="">
+                                                            Testing Tray with capacity up to 120 tons
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="">
+                                                            Tensile Test Bed capacity up to 100 tons<br> for destructive and non-destructive testing
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="">
+                                                            Sample destruction testing of lifting gears in <br> compliance with QatarEnergy lifting regulations
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="">
+                                                            Proof load testing, Functional and dynamic testing
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="">
+                                                            Third-party witness certification available upon request
+                                                        </a>
+                                                    </li>
+                                                </ul>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="dropdown-item" href="">
