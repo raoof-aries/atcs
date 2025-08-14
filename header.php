@@ -252,11 +252,28 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="nav-item">
+                                            <li class="dropdown dropdown-submenu dropend">
+                                                <a class="dropdown-item dropdown-toggle" href="wire-rope-services">
+                                                    Wire rope socketing and spooling services
+                                                </a>
+                                                <ul class="dropdown-menu">
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="wire-rope-socketing">
+                                                            Wire rope socketing
+                                                        </a>
+                                                    </li>
+                                                    <li class="nav-item">
+                                                        <a class="dropdown-item" href="">
+                                                            Wire rope spooling
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <!-- <li class="nav-item">
                                                 <a class="dropdown-item" href="">
                                                     Wire rope socketing and spooling services
                                                 </a>
-                                            </li>
+                                            </li> -->
 
                                             <!-- end new -->
 
