@@ -221,35 +221,21 @@
                                                 </a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="load-testing-blocks">
-                                                            Load Testing Blocks up to 200 tons
+                                                        <a class="dropdown-item" href="test-weight-and-tray">
+                                                            Provision of test weight and testing tray
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="">
-                                                            Testing Tray with capacity up to 120 tons
+                                                        <a class="dropdown-item" href="load-test-water-bags">
+                                                            Provision of load test water bags and tensile load cells
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="">
-                                                            Tensile Test Bed capacity up to 100 tons<br> for destructive and non-destructive testing
+                                                        <a class="dropdown-item" href="test-bed-capacity">
+                                                            Tensile Test Bed capacity up to 300 tons<br> for destructive and non-destructive testing
                                                         </a>
                                                     </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="">
-                                                            Sample destruction testing of lifting gears in <br> compliance with QatarEnergy lifting regulations
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="">
-                                                            Proof load testing, Functional and dynamic testing
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="">
-                                                            Third-party witness certification available upon request
-                                                        </a>
-                                                    </li>
+
                                                 </ul>
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend">
