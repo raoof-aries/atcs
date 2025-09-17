@@ -40,6 +40,23 @@
                 <p class="mb-4">
                     We offer complete load testing solutions for all types of lifting gears and equipment, available both onsite and at our dedicated testing yard in Birkat Al Awamir. We ensure every test is completed safely, accurately, and in full compliance with LEEA, LOLER, API, and QatarEnergy requirements.
                 </p>
+                <h2 class="display-6 mb-3">
+                    Our Services Includes
+                </h2>
+                <ul class="icon-list bullet-bg bullet-soft-primary">
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Provision of test weight in various configurations up to 200 tons and test tray up to 120 tons.
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Provision of load test water bags with capacities of 5 tons, 10 tons, 20 tons, 50 tons, and 110 tons and tensile load cells with capacities of up to 400 tons.
+                        </span>
+                    </li>
+                    <li><span><i class="uil uil-check"></i></span><span>
+                            Tensile Test Bed capacity up to 300 tons for destructive and non-destructive testing
+                        </span>
+                    </li>
+                </ul>
             </div>
             <!--/column -->
         </div>

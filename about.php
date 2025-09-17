@@ -38,86 +38,20 @@
                 <img src="./assets/img/icons/lineal/megaphone.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
                 <h2 class="display-4 mb-3">About Us</h2>
                 <p class="">
-                    Aries Corrosion Control & Management services is molded out by a group of corrosion experts to deliver prompt solutions like Deck Coating Upgradation/ Maintenance, Ballast Tank Coating Maintenance, Cargo Holds washing & Coating maintenance, Helideck Blasting & painting, Hydro jetting services, lancing services , Industrial coating services & Coating Condition Survey.
+                    We specialize in providing timely, high-quality, and cost-effective Repair & Maintenance services for the Marine, Offshore, oil and gas and Industrial sectors. Our comprehensive range of services ensures the quality of your projects and your assets operates safely and efficiently. With a strong commitment to quality and customer satisfaction, we adhere to the highest standards of safety and excellence. we are here to support your business every step of the way.
                 </p>
                 <p class="mb-6">
-                    Offshore/ Marine structures are built irrespective of the atmospheric conditions to which they are exposed. Hence, proper coating procedure is crucial for any offshore/marine structure for preserving and maintaining it as good as new. This relies on procedures which include proper surface treatment techniques, required coating materials and methods of applications.
-                    Aries Corrosion Control & Management services is an Aries Group venture molded out by a group of corrosion experts to deliver prompt solution for extending the life of structural elements, metal/non-metal, doctored by proper analysis and treatment.
+                    Explore our services and see how we can help you enhance performance and reliability today!
 
                 </p>
+                <!-- < href="#" class="btn btn-primary rounded-pill mb-0">Learn More</ a> -->
 
                 <!--/.row -->
             </div>
             <!--/column -->
         </div>
         <!--/.row -->
-        <div class="row mb-5">
-            <div class="col-md-10 col-xl-8 col-xxl-7 mx-auto text-center">
-                <img src="./assets/img/icons/lineal/list.svg" class="svg-inject icon-svg icon-svg-md mb-4" alt="" />
-                <h2 class="display-4 mb-4 px-lg-14">Here are 3 working steps to organize our business projects.</h2>
-            </div>
-            <!-- /column -->
-        </div>
-        <!-- /.row -->
-        <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-            <div class="col-lg-6 order-lg-2">
-                <div class="card me-lg-6">
-                    <div class="card-body p-6">
-                        <div class="d-flex flex-row">
-                            <div>
-                                <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4"><span class="number">01</span></span>
-                            </div>
-                            <div>
-                                <h4 class="mb-1">Collect Ideas</h4>
-                                <p class="mb-0">Nulla vitae elit libero pharetra augue dapibus.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--/.card-body -->
-                </div>
-                <!--/.card -->
-                <div class="card ms-lg-13 mt-6">
-                    <div class="card-body p-6">
-                        <div class="d-flex flex-row">
-                            <div>
-                                <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4"><span class="number">02</span></span>
-                            </div>
-                            <div>
-                                <h4 class="mb-1">Data Analysis</h4>
-                                <p class="mb-0">Vivamus sagittis lacus vel augue laoreet.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--/.card-body -->
-                </div>
-                <!--/.card -->
-                <div class="card mx-lg-6 mt-6">
-                    <div class="card-body p-6">
-                        <div class="d-flex flex-row">
-                            <div>
-                                <span class="icon btn btn-circle btn-lg btn-soft-primary pe-none me-4"><span class="number">03</span></span>
-                            </div>
-                            <div>
-                                <h4 class="mb-1">Finalize Product</h4>
-                                <p class="mb-0">Cras mattis consectetur purus sit amet.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--/.card-body -->
-                </div>
-                <!--/.card -->
-            </div>
-            <!--/column -->
-            <div class="col-lg-6">
-                <h2 class="display-6 mb-3">How It Works?</h2>
-                <p class="lead fs-lg pe-lg-5">Find out everything you need to know and more about how we create our business process models.</p>
-                <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare.</p>
-                <p class="mb-6">Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper. Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Vestibulum id ligula porta felis.</p>
-                <a href="#" class="btn btn-primary rounded-pill mb-0">Learn More</a>
-            </div>
-            <!--/column -->
-        </div>
-        <!--/.row -->
+
     </div>
     <!-- /.container -->
 </section>

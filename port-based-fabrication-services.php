@@ -3,11 +3,11 @@
     <div class="container pt-17 pb-17 pt-md-17 pb-md-17 text-center">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h1 class="display-1 mb-3 text-white">Port-Based Fabrication Services</h1>
+                <h1 class="display-1 mb-3 text-white"> Fabrication And Sea Fastening Services</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Port-Based Fabrication Services</li>
+                        <li class="breadcrumb-item active" aria-current="page"> Fabrication And Sea Fastening Services</li>
                     </ol>
                 </nav>
                 <!-- /nav -->
@@ -47,10 +47,9 @@
             <!--/column -->
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">
-                    Port-Based Fabrication Services
+                     Fabrication And Sea Fastening Services
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
-                    Port-Based Fabrication Services
                     Our certified welders and fabricators are locally based with valid port passes, enabling quick deployment to all major ports across Qatar. This ensures efficient support during port calls, voyage repairs, and scheduled maintenance without delays.
 
                 </p>

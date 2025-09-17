@@ -3,11 +3,11 @@
     <div class="container pt-17 pb-17 pt-md-17 pb-md-17 text-center">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h1 class="display-1 mb-3 text-white">Octg Inspection </h1>
+                <h1 class="display-1 mb-3 text-white">OCTG  maintenance and repair services</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Octg Inspection</li>
+                        <li class="breadcrumb-item active" aria-current="page">OCTG Maintenance and Repair Services</li>
                     </ol>
                 </nav>
                 <!-- /nav -->
@@ -36,7 +36,7 @@
             </div>
             <!--/column -->
             <div class="col-lg-6 serviceTextContainer">
-                <h2 class="display-4 mb-3">Octg Inspection</h2>
+                <h2 class="display-4 mb-3">OCTG  maintenance and repair services</h2>
                 <p class="mb-4">
                     Our aim is to serve the drilling industry by providing timely, high-quality, cost-effective maintenance Services locally. Our experienced team employs the latest technology and techniques to ensure your equipment operates at peak performance.
                 </p>

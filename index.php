@@ -12,11 +12,10 @@
                     data-interval="-200"
                     data-delay="500">
                     <h3 class="display-1 fs-52 text-white mb-7">
-                        Trusted Industrial Repair, Testing & Calibration Partner.
+                        Welcome to Aries Trading Contracting and Services!
                     </h3>
                     <p class="text-white fs-25 lh-sm mb-7 cstm-hero-desc">
-                        Decades of certified expertise with state-of-the-art
-                        equipment ensuring reliability, safety, performance.
+                        Trusted repair and maintenance ensuring safety, efficiency, and lasting performance.    
                     </p>
                     <div>
                         <a class="btn btn-primary rounded-pill mt-2 ">Get Quote</a>

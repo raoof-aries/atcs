@@ -74,29 +74,29 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="octg-inspection">OCTG maintenance and repair services</a>
+                                                    href="octg-inspection">OCTG</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Inspection</a>
+                                                        <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Straightening</a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="refacing-service">
-                                                            Refacing Service for API Connections
+                                                            Refacing of API connections
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="thread-inspection">
-                                                            Thread Inspection and Repair
+                                                            Thread Repair
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="drilling-handling-tools">
-                                                            Drilling Handling Tools<br> dismantling, servicing & reassembling
+                                                            DHT Service and Repair
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="high-pressure-washing">
-                                                            High pressure washing
+                                                            High-pressure washing and storage
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
@@ -117,16 +117,17 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="octg-inspection">Welding and Fabrication Services</a>
+                                                    href="octg-inspection">Welding and fabrication</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="deployment-class-certified">
-                                                            Deployment of Class-Certified Welders <br>(4G to 6G) & Fabricators During Sailing
+                                                            Class Certified Welders
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="structural-steel-repairs">
-                                                            Structural Steel Repairs
+                                                            <!-- Structural Steel Repairs -->
+                                                            Structural repairs and modifications
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
@@ -136,7 +137,8 @@
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="port-based-fabrication-services">
-                                                            Port-Based Fabrication Services
+                                                            <!-- Port-Based Fabrication Services -->
+                                                            Fabrication And Sea Fastening Services
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
@@ -162,7 +164,7 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="corrosion-control-services">Corrosion Control Services</a>
+                                                    href="corrosion-control-services">Corrosion control services</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="riding-squad">Riding Squad</a>
@@ -190,7 +192,7 @@
                                             <!-- new -->
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a class="dropdown-item dropdown-toggle" href="pressure-testing-valve-repair">
-                                                    Pressure testing and valve repair services
+                                                    Pressure testing and valve repair
                                                 </a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
@@ -217,7 +219,7 @@
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a class="dropdown-item dropdown-toggle" href="load-testing">
-                                                    Load testing services
+                                                    Loat testing
                                                 </a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
@@ -240,7 +242,7 @@
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a class="dropdown-item dropdown-toggle" href="wire-rope-services">
-                                                    Wire rope socketing and spooling services
+                                                    Wire rope socketing and spooling
                                                 </a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
