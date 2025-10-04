@@ -15,7 +15,7 @@
                         Welcome to Aries Trading Contracting and Services!
                     </h3>
                     <p class="text-white fs-25 lh-sm mb-7 cstm-hero-desc">
-                        Trusted repair and maintenance ensuring safety, efficiency, and lasting performance.    
+                        Trusted repair and maintenance ensuring safety, efficiency, and lasting performance.
                     </p>
                     <div>
                         <a class="btn btn-primary rounded-pill mt-2 ">Get Quote</a>
@@ -39,138 +39,29 @@
     </div>
     <!-- /.wrapper -->
 </section>
-<!--/section -->
-<section class="wrapper bg-light">
-    <div class="container pt-14 pt-md-16 pb-6 pb-md-10">
-        <div class="row text-center">
-            <div class="col-lg-9 col-xl-8 mx-auto">
-                <h2 class="fs-16 text-uppercase text-muted mb-3">
-                    What We Do?
-                </h2>
-                <h3 class="display-4 mb-10 px-xxl-10">
-                    We provide industrial repair, calibration, and testing services to keep operations efficient.
-                </h3>
-            </div>
-            <!-- /column -->
-        </div>
-        <!-- /.row -->
-        <div class="row">
-            <div class="col-xxl-11 mx-auto">
-                <div
-                    class="row gx-lg-8 gx-xl-12 gy-11 text-center d-flex align-items-end">
-                    <div class="col-sm-8 col-md-6 col-lg-4 mx-auto">
-                        <div class="px-md-3 px-lg-0 px-xl-3">
-                            <div
-                                class="icon btn btn-block btn-lg btn-soft-purple pe-none mb-5">
-                                <i class="uil uil-wrench"></i>
-                            </div>
-                            <h3 class="fs-22">Industrial Equipment Repair</h3>
-                            <p class="mb-2">
-                                Reliable repair services to restore operational efficiency and minimize costly downtime.
-                            </p>
-                            <a href="#" class="more hover link-purple">Learn More</a>
-                        </div>
-                        <!--/.px -->
-                    </div>
-                    <!--/column -->
-                    <div class="col-sm-8 col-md-6 col-lg-4 mx-auto">
-                        <div class="px-md-3 px-lg-0 px-xl-3">
-                            <div
-                                class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5">
-                                <i class="uil-ruler"></i>
-                            </div>
-                            <h3 class="fs-22">Precision Testing & Calibration</h3>
-                            <p class="mb-2">
-                                Accurate testing and calibration to international standards for equipment reliability and safety.
-                            </p>
-                            <a href="#" class="more hover link-leaf">Learn More</a>
-                        </div>
-                        <!--/.px -->
-                    </div>
-                    <!--/column -->
-                    <div class="col-sm-8 col-md-6 col-lg-4 mx-auto">
-                        <div class="px-md-3 px-lg-0 px-xl-3">
-                            <div
-                                class="icon btn btn-block btn-lg btn-soft-pink pe-none mb-5">
-                                <i class="uil uil-cog"></i>
-                            </div>
-                            <h3 class="fs-22">Mechanical Service & Overhaul</h3>
-                            <p class="mb-2">
-                                Preventive maintenance and overhauls to extend machinery lifespan and improve performance.
-                            </p>
-                            <a href="#" class="more hover link-pink">Learn More</a>
-                        </div>
-                        <!--/.px -->
-                    </div>
-                    <!--/column -->
-                </div>
-                <!--/.row -->
-            </div>
-            <!-- /column -->
-        </div>
-        <!-- /.row --> <!-- /.row -->
-        <div class="row pt-10">
-            <div class="col-xxl-11 mx-auto">
-                <div
-                    class="row gx-lg-8 gx-xl-12 gy-11 text-center d-flex align-items-end">
-                    <div class="col-sm-8 col-md-6 col-lg-4 mx-auto">
-                        <div class="px-md-3 px-lg-0 px-xl-3">
-                            <div
-                                class="icon btn btn-block btn-lg btn-soft-purple pe-none mb-5">
-                                <i class="uil uil-analytics"></i>
-                            </div>
-                            <h3 class="fs-22">Certified Load Inspections</h3>
-                            <p class="mb-2">
-                                Certified load testing and inspection services to ensure safe, dependable equipment operation.
-                            </p>
-                            <a href="#" class="more hover link-purple">Learn More</a>
-                        </div>
-                        <!--/.px -->
-                    </div>
-                    <!--/column -->
-                    <div class="col-sm-8 col-md-6 col-lg-4 mx-auto">
-                        <div class="px-md-3 px-lg-0 px-xl-3">
-                            <div
-                                class="icon btn btn-block btn-lg btn-soft-leaf pe-none mb-5">
-                                <i class="uil uil-headphones"></i>
-                            </div>
-                            <h3 class="fs-22">On-site Tech Assistance</h3>
-                            <p class="mb-2">
-                                Fast, on-site technical assistance and troubleshooting to resolve operational challenges quickly.
-                            </p>
-                            <a href="#" class="more hover link-leaf">Learn More</a>
-                        </div>
-                        <!--/.px -->
-                    </div>
-                    <!--/column -->
-                    <div class="col-sm-8 col-md-6 col-lg-4 mx-auto">
-                        <div class="px-md-3 px-lg-0 px-xl-3">
-                            <div
-                                class="icon btn btn-block btn-lg btn-soft-pink pe-none mb-5">
-                                <i class="uil uil-file-check"></i>
-                            </div>
-                            <h3 class="fs-22">Compliance & Certification</h3>
-                            <p class="mb-2">
-                                Expert support for inspections, test reports, and documentation to meet regulatory compliance.
-                            </p>
-                            <a href="#" class="more hover link-pink">Learn More</a>
-                        </div>
-                        <!--/.px -->
-                    </div>
-                    <!--/column -->
-                </div>
-                <!--/.row -->
-            </div>
-            <!-- /column -->
-        </div>
-        <!-- /.row -->
 
-
-
-        <!--/.row -->
+<section class="what-we-do-section">
+    <!-- Animated Background Elements -->
+    <div class="bg-elements">
+        <div class="bg-circle"></div>
+        <div class="bg-circle"></div>
+        <div class="bg-circle"></div>
+        <div class="bg-line"></div>
+        <div class="bg-line"></div>
+        <div class="gear"></div>
+        <div class="gear"></div>
     </div>
-    <!-- /.container -->
+
+    <div class="container">
+        <div class="section-header">
+            <h2 class="display-4 section-title">What We Do</h2>
+            <p class="section-subtitle">
+                We specialize in OCTG maintenance and repair, offering expert pressure testing and valve repair services to guarantee the integrity of your operations. Our load testing services ensure that your equipment can handle any challenge, while our wire rope socketing and spooling services promote safe and reliable use.
+            </p>
+        </div>
+    </div>
 </section>
+
 
 <section class="wrapper image-wrapper bg-image bg-overlay " data-image-src="./assets/img/photos/bg1.jpg">
     <div class="container py-18 mt-10">
@@ -378,32 +269,37 @@
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <figure class="rounded"><img src="./assets/img/photos/pp10.jpg" alt="" /></figure>
+                        <figure class="rounded"><img src="assets/esol/img/slider/1.png" alt="" /></figure>
                     </div>
                     <!--/.swiper-slide -->
                     <div class="swiper-slide">
-                        <figure class="rounded"><img src="./assets/img/photos/pp11.jpg" alt="" /></figure>
+                        <figure class="rounded"><img src="assets/esol/img/slider/2.png" alt="" /></figure>
                     </div>
                     <!--/.swiper-slide -->
                     <div class="swiper-slide">
-                        <figure class="rounded"><img src="./assets/img/photos/pp12.jpg" alt="" /></figure>
+                        <figure class="rounded"><img src="assets/esol/img/slider/3.png" alt="" /></figure>
                     </div>
                     <!--/.swiper-slide -->
                     <div class="swiper-slide">
-                        <figure class="rounded"><img src="./assets/img/photos/pp13.jpg" alt="" /></figure>
+                        <figure class="rounded"><img src="assets/esol/img/slider/4.png" alt="" /></figure>
                     </div>
                     <!--/.swiper-slide -->
                     <div class="swiper-slide">
-                        <figure class="rounded"><img src="./assets/img/photos/pp14.jpg" alt="" /></figure>
+                        <figure class="rounded"><img src="assets/esol/img/slider/5.png" alt="" /></figure>
                     </div>
                     <!--/.swiper-slide -->
                     <div class="swiper-slide">
-                        <figure class="rounded"><img src="./assets/img/photos/pp15.jpg" alt="" /></figure>
+                        <figure class="rounded"><img src="assets/esol/img/slider/6.png" alt="" /></figure>
                     </div>
                     <!--/.swiper-slide -->
+                    <!--/.swiper-slide -->
                     <div class="swiper-slide">
+                        <figure class="rounded"><img src="assets/esol/img/slider/7.png" alt="" /></figure>
+                    </div>
+                    <!--/.swiper-slide -->
+                    <!-- <div class="swiper-slide">
                         <figure class="rounded"><img src="./assets/img/photos/pp16.jpg" alt="" /></figure>
-                    </div>
+                    </div> -->
                     <!--/.swiper-slide -->
                 </div>
                 <!--/.swiper-wrapper -->
@@ -417,81 +313,6 @@
 <!-- /section -->
 
 <!-- end gallery -->
-
-
-<section id="services">
-    <div class="wrapper bg-gray">
-        <div class="container py-15 py-md-17 ">
-            <div class="row gx-lg-0 gy-10 align-items-center">
-                <div class="col-lg-6">
-                    <div class="row g-6 text-center">
-                        <div class="col-md-6">
-                            <div class="card shadow-lg mb-6">
-                                <figure class="card-img-top overlay overlay-1 certificate-img">
-                                    <a href="#"><img class="img-fluid" src="./assets/img/custom/certificates/certificate1.webp" alt="" /></a>
-                                    <figcaption>
-                                        <h5 class="from-top mb-0">View All</h5>
-                                    </figcaption>
-                                </figure>
-
-                                <!--/.card-body -->
-                            </div>
-                            <!-- /.card -->
-                            <div class="card shadow-lg">
-                                <figure class="card-img-top overlay overlay-1 certificate-img">
-                                    <a href="#"><img class="img-fluid" src="./assets/img/custom/certificates/certificate2.webp" alt="" /></a>
-                                    <figcaption>
-                                        <h5 class="from-top mb-0">View All</h5>
-                                    </figcaption>
-                                </figure>
-
-                                <!--/.card-body -->
-                            </div>
-                            <!-- /.card -->
-                        </div>
-                        <!-- /column -->
-                        <div class="col-md-6">
-                            <div class="card shadow-lg mt-md-6 mb-6">
-                                <figure class="card-img-top overlay overlay-1 certificate-img">
-                                    <a href="#"><img class="img-fluid" src="./assets/img/custom/certificates/certificate3.webp" alt="" /></a>
-                                    <figcaption>
-                                        <h5 class="from-top mb-0">View All</h5>
-                                    </figcaption>
-                                </figure>
-
-                                <!--/.card-body -->
-                            </div>
-                            <!-- /.card -->
-                            <div class="card shadow-lg">
-                                <figure class="card-img-top overlay overlay-1 certificate-img">
-                                    <a href="#"><img class="img-fluid" src="./assets/img/custom/certificates/certificate4.webp" alt="" /></a>
-                                    <figcaption>
-                                        <h5 class="from-top mb-0">View All</h5>
-                                    </figcaption>
-                                </figure>
-
-                                <!--/.card-body -->
-                            </div>
-                            <!-- /.card -->
-                        </div>
-                        <!-- /column -->
-                    </div>
-                    <!-- /.row -->
-                </div>
-                <!-- /column -->
-                <div class="col-lg-5 offset-lg-1">
-                    <h2 class="display-5 mb-3">Our Accreditations & Certifications</h2>
-                    <p class="lead fs-lg">We take pride in holding internationally recognized certifications that reflect our commitment to quality, safety, and industry standards. These credentials reinforce our promise to deliver reliable, compliant, and efficient services to every client we serve.</p>
-                    <a href="#" class="btn btn-primary rounded-pill mt-2">View All</a>
-                </div>
-                <!-- /column -->
-            </div>
-            <!-- /.row -->
-        </div>
-        <!-- /.container -->
-    </div>
-    <!-- /.wrapper -->
-</section>
 
 </div>
 

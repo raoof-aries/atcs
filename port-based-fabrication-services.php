@@ -47,7 +47,7 @@
             <!--/column -->
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">
-                     Fabrication And Sea Fastening Services
+                    Port-Based Fabrication Services
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
                     Our certified welders and fabricators are locally based with valid port passes, enabling quick deployment to all major ports across Qatar. This ensures efficient support during port calls, voyage repairs, and scheduled maintenance without delays.
@@ -55,6 +55,52 @@
                 </p>
             </div>
             <!--/column -->
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="offshore-services-wrapper">
+        <!-- Background Elements -->
+        <div class="offshore-bg-elements">
+            <div class="offshore-wave wave-1"></div>
+            <div class="offshore-wave wave-2"></div>
+            <div class="offshore-geometric geo-1"></div>
+            <div class="offshore-geometric geo-2"></div>
+            <div class="offshore-dots-pattern dots-1"></div>
+            <div class="offshore-dots-pattern dots-2"></div>
+        </div>
+
+        <div class="offshore-container container">
+            <!-- Pre-Fabrication & Offshore Installation Section -->
+            <div class="offshore-service-section">
+                <div class="offshore-service-card">
+                    <div class="offshore-service-icon">🏗️</div>
+                    <div class="offshore-service-header">
+                        <h2 class="offshore-service-title">Pre-Fabrication & Offshore Installation</h2>
+                    </div>
+                    <div class="offshore-service-content">
+                        <p class="offshore-service-description">
+                            Our skilled teams specialize in structural and piping installation for offshore projects, ensuring precision and compliance with industry standards. We deliver reliable solutions even in challenging offshore environments, prioritizing safety and efficiency.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sea Fastening Services Section -->
+            <div class="offshore-service-section">
+                <div class="offshore-service-card">
+                    <div class="offshore-service-icon">⚓</div>
+                    <div class="offshore-service-header">
+                        <h2 class="offshore-service-title">Sea fastening services for offshore mobilizations</h2>
+                    </div>
+                    <div class="offshore-service-content">
+                        <p class="offshore-service-description">
+                            We offer expert sea fastening services to secure equipment and structures during offshore mobilizations, ensuring safe and stable transit. Our solutions are engineered to withstand harsh marine conditions and comply with international standards.
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>

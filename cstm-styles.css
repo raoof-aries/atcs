@@ -74,3 +74,669 @@
 .coreStrengthTextContainer p {
   text-align: left;
 }
+
+/* what we do section */
+
+.what-we-do-section {
+  position: relative;
+  padding: 100px 20px;
+  background-color: #fefefe;
+  overflow: hidden;
+  /* min-height: 100vh; */
+  display: flex;
+  align-items: center;
+}
+
+/* Animated Background Elements */
+.bg-elements {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.bg-circle {
+  position: absolute;
+  border-radius: 50%;
+  background: linear-gradient(135deg, rgba(216, 64, 64, 0.1), rgba(216, 64, 64, 0.05));
+  animation: float 20s ease-in-out infinite;
+}
+
+.bg-circle:nth-child(1) {
+  width: 300px;
+  height: 300px;
+  top: 10%;
+  right: -100px;
+  animation-delay: -5s;
+}
+
+.bg-circle:nth-child(2) {
+  width: 200px;
+  height: 200px;
+  bottom: 20%;
+  left: -50px;
+  animation-delay: -10s;
+}
+
+.bg-circle:nth-child(3) {
+  width: 150px;
+  height: 150px;
+  top: 60%;
+  right: 20%;
+  animation-delay: -15s;
+}
+
+.bg-line {
+  position: absolute;
+  background: linear-gradient(90deg, transparent, rgba(216, 64, 64, 0.2), transparent);
+  animation: slide 15s linear infinite;
+}
+
+.bg-line:nth-child(4) {
+  width: 100%;
+  height: 2px;
+  top: 30%;
+  animation-delay: -3s;
+}
+
+.bg-line:nth-child(5) {
+  width: 100%;
+  height: 1px;
+  bottom: 40%;
+  animation-delay: -8s;
+}
+
+.gear {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  border: 3px solid rgba(216, 64, 64, 0.1);
+  border-radius: 50%;
+  animation: rotate 30s linear infinite;
+}
+
+.gear::before,
+.gear::after {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: rgba(216, 64, 64, 0.1);
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.gear::before {
+  width: 8px;
+  height: 8px;
+  background-color: rgba(216, 64, 64, 0.2);
+}
+
+.gear:nth-child(6) {
+  top: 15%;
+  left: 10%;
+  animation-duration: 25s;
+}
+
+.gear:nth-child(7) {
+  bottom: 10%;
+  right: 15%;
+  animation-duration: 35s;
+  animation-direction: reverse;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px) scale(1);
+    opacity: 0.7;
+  }
+  50% {
+    transform: translateY(-30px) scale(1.1);
+    opacity: 1;
+  }
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Content Styles */
+
+.section-header {
+  text-align: center;
+}
+
+.section-title {
+  /* font-size: 3.5rem; */
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 20px;
+  position: relative;
+  display: inline-block;
+}
+
+.section-title::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(135deg, #d84040, #ff6b6b);
+  border-radius: 2px;
+}
+
+.section-subtitle {
+  font-size: 1.3rem;
+  color: #666;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 40px;
+  margin-top: 60px;
+}
+
+.service-card {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  padding: 40px 30px;
+  text-align: center;
+  box-shadow: 0 15px 35px rgba(216, 64, 64, 0.1);
+  transition: all 0.4s ease;
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(216, 64, 64, 0.1);
+}
+
+.service-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(216, 64, 64, 0.05), transparent);
+  transition: all 0.6s ease;
+}
+
+.service-card:hover::before {
+  left: 100%;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 25px 50px rgba(216, 64, 64, 0.15);
+  border-color: #d84040;
+}
+
+.service-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 25px;
+  background: linear-gradient(135deg, #d84040, #ff6b6b);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.service-card:hover .service-icon {
+  transform: scale(1.1) rotate(5deg);
+  box-shadow: 0 10px 20px rgba(216, 64, 64, 0.3);
+}
+
+.service-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.service-description {
+  color: #666;
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .what-we-do-section {
+    padding: 60px 15px;
+  }
+
+  .section-title {
+    font-size: 2.5rem;
+  }
+
+  .section-subtitle {
+    font-size: 1.1rem;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .service-card {
+    padding: 30px 20px;
+  }
+
+  .bg-circle:nth-child(1) {
+    width: 200px;
+    height: 200px;
+  }
+
+  .bg-circle:nth-child(2) {
+    width: 150px;
+    height: 150px;
+  }
+
+  .gear {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+/* Additional Animation for Cards */
+.service-card {
+  opacity: 0;
+  animation: fadeInUp 0.8s ease forwards;
+}
+
+.service-card:nth-child(1) {
+  animation-delay: 0.2s;
+}
+.service-card:nth-child(2) {
+  animation-delay: 0.4s;
+}
+.service-card:nth-child(3) {
+  animation-delay: 0.6s;
+}
+.service-card:nth-child(4) {
+  animation-delay: 0.8s;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* end what we do section */
+
+/* Sea Fastening Services and Pre-Fabrication & Offshore Installation Section */
+
+/* Main Container */
+.offshore-services-wrapper {
+  position: relative;
+  padding: 80px 20px;
+  background-color: #fefefe;
+  overflow: hidden;
+  min-height: 100vh;
+}
+
+/* Background Elements */
+.offshore-bg-elements {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1;
+}
+
+.offshore-wave {
+  position: absolute;
+  width: 120%;
+  height: 200px;
+  background: linear-gradient(45deg, rgba(216, 64, 64, 0.08), rgba(216, 64, 64, 0.03));
+  border-radius: 50%;
+  animation: wave-motion 25s ease-in-out infinite;
+}
+
+.offshore-wave.wave-1 {
+  top: 20%;
+  left: -10%;
+  animation-delay: -5s;
+}
+
+.offshore-wave.wave-2 {
+  bottom: 30%;
+  right: -10%;
+  animation-delay: -15s;
+  animation-direction: reverse;
+}
+
+.offshore-geometric {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border: 2px solid rgba(216, 64, 64, 0.15);
+  animation: float-rotate 20s linear infinite;
+}
+
+.offshore-geometric.geo-1 {
+  top: 15%;
+  right: 15%;
+  border-radius: 30%;
+  animation-delay: -3s;
+}
+
+.offshore-geometric.geo-2 {
+  bottom: 20%;
+  left: 10%;
+  transform: rotate(45deg);
+  animation-delay: -10s;
+}
+
+.offshore-dots-pattern {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-image: radial-gradient(circle, rgba(216, 64, 64, 0.1) 2px, transparent 2px);
+  background-size: 20px 20px;
+  animation: pulse-pattern 15s ease-in-out infinite;
+}
+
+.offshore-dots-pattern.dots-1 {
+  top: 40%;
+  left: 5%;
+  animation-delay: -7s;
+}
+
+.offshore-dots-pattern.dots-2 {
+  top: 10%;
+  right: 5%;
+  animation-delay: -12s;
+}
+
+@keyframes wave-motion {
+  0%,
+  100% {
+    transform: translateX(0) translateY(0) scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: translateX(20px) translateY(-15px) scale(1.1);
+    opacity: 1;
+  }
+}
+
+@keyframes float-rotate {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 0.7;
+  }
+  50% {
+    transform: translateY(-20px) rotate(180deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0) rotate(360deg);
+    opacity: 0.7;
+  }
+}
+
+@keyframes pulse-pattern {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+  50% {
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+}
+
+/* Content Container */
+.offshore-container {
+  position: relative;
+  z-index: 2;
+}
+
+/* Service Section Styling */
+.offshore-service-section {
+  margin-bottom: 60px;
+  opacity: 0;
+  animation: slide-in-up 1s ease-out forwards;
+}
+
+.offshore-service-section:nth-child(2) {
+  animation-delay: 0.3s;
+}
+
+.offshore-service-card {
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 24px;
+  padding: 50px 40px;
+  box-shadow: 0 20px 40px rgba(216, 64, 64, 0.08);
+  border: 1px solid rgba(216, 64, 64, 0.1);
+  backdrop-filter: blur(20px);
+  position: relative;
+  overflow: hidden;
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.offshore-service-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(135deg, #d84040, #ff6b6b);
+  border-radius: 24px 24px 0 0;
+}
+
+.offshore-service-card::after {
+  content: "";
+  position: absolute;
+  top: -50%;
+  right: -50%;
+  width: 200%;
+  height: 200%;
+  background: conic-gradient(from 0deg, transparent, rgba(216, 64, 64, 0.03), transparent);
+  opacity: 0;
+  transition: all 0.6s ease;
+  animation: rotate-bg 20s linear infinite;
+}
+
+.offshore-service-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 30px 60px rgba(216, 64, 64, 0.15);
+  border-color: #d84040;
+}
+
+.offshore-service-card:hover::after {
+  opacity: 1;
+}
+
+@keyframes rotate-bg {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.offshore-service-header {
+  position: relative;
+  z-index: 3;
+  margin-bottom: 25px;
+}
+
+.offshore-service-title {
+  /* font-size: 2.2rem; */
+  /* font-weight: 700; */
+  color: #2c2c2c;
+  margin-bottom: 15px;
+  position: relative;
+  display: inline-block;
+}
+
+.offshore-service-title::after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(135deg, #d84040, #ff6b6b);
+  border-radius: 2px;
+}
+
+.offshore-service-content {
+  position: relative;
+  z-index: 3;
+}
+
+.offshore-service-description {
+  font-size: 1.15rem;
+  color: #555;
+  line-height: 1.8;
+  text-align: justify;
+}
+
+/* Icon Decoration */
+.offshore-service-icon {
+  position: absolute;
+  top: 30px;
+  right: 40px;
+  width: 70px;
+  height: 70px;
+  background: linear-gradient(135deg, rgba(216, 64, 64, 0.1), rgba(216, 64, 64, 0.05));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  transition: all 0.4s ease;
+  z-index: 3;
+}
+
+.offshore-service-card:hover .offshore-service-icon {
+  transform: scale(1.1) rotate(10deg);
+  background: linear-gradient(135deg, rgba(216, 64, 64, 0.2), rgba(216, 64, 64, 0.1));
+}
+
+/* Alternating Layout */
+.offshore-service-section:nth-child(even) .offshore-service-card {
+  margin-left: auto;
+  margin-right: 0;
+  max-width: 900px;
+}
+
+.offshore-service-section:nth-child(odd) .offshore-service-card {
+  margin-left: 0;
+  margin-right: auto;
+  max-width: 900px;
+}
+
+@keyframes slide-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .offshore-services-wrapper {
+    padding: 60px 15px;
+  }
+
+  .offshore-service-card {
+    padding: 35px 25px;
+    margin: 0 !important;
+    max-width: 100% !important;
+  }
+
+  .offshore-service-title {
+    font-size: 1.8rem;
+  }
+
+  .offshore-service-description {
+    font-size: 1rem;
+  }
+
+  .offshore-service-icon {
+    position: relative;
+    top: auto;
+    right: auto;
+    margin: 0 auto 20px;
+  }
+
+  .offshore-wave {
+    height: 150px;
+  }
+
+  .offshore-geometric {
+    width: 40px;
+    height: 40px;
+  }
+
+  .offshore-dots-pattern {
+    width: 100px;
+    height: 100px;
+    background-size: 15px 15px;
+  }
+}
+
+/* Additional Animation for Better UX */
+.offshore-service-card {
+  animation: card-entrance 0.8s ease-out;
+}
+
+@keyframes card-entrance {
+  from {
+    opacity: 0;
+    transform: scale(0.95) translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+/* end Sea Fastening Services and Pre-Fabrication & Offshore Installation Section */

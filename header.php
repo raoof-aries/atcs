@@ -99,11 +99,11 @@
                                                             High-pressure washing and storage
                                                         </a>
                                                     </li>
-                                                    <li class="nav-item">
+                                                    <!-- <li class="nav-item">
                                                         <a class="dropdown-item" href="yard-facility">
                                                             Yard Facility for Storage and Maintenance
                                                         </a>
-                                                    </li>
+                                                    </li> -->
                                                     <!-- <li class="nav-item">
                                                         <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
                                                     </li>
@@ -125,23 +125,24 @@
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
-                                                        <a class="dropdown-item" href="structural-steel-repairs">
-                                                            <!-- Structural Steel Repairs -->
-                                                            Structural repairs and modifications
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="structural-piping-modifications">
-                                                            Structural & Piping Modifications
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
                                                         <a class="dropdown-item" href="port-based-fabrication-services">
                                                             <!-- Port-Based Fabrication Services -->
                                                             Fabrication And Sea Fastening Services
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
+                                                        <a class="dropdown-item" href="structural-steel-repairs">
+                                                            <!-- Structural Steel Repairs -->
+                                                            Structural repairs and modifications
+                                                        </a>
+                                                    </li>
+                                                    <!-- <li class="nav-item">
+                                                        <a class="dropdown-item" href="structural-piping-modifications">
+                                                            Structural & Piping Modifications
+                                                        </a>
+                                                    </li> -->
+
+                                                    <!-- <li class="nav-item">
                                                         <a class="dropdown-item" href="pre-fabrication-offshore-installation">
                                                             Pre-Fabrication & Offshore Installation
                                                         </a>
@@ -150,7 +151,7 @@
                                                         <a class="dropdown-item" href="sea-fastening-services">
                                                             Sea fastening services for offshore mobilizations
                                                         </a>
-                                                    </li>
+                                                    </li> -->
                                                     <!-- <li class="nav-item">
                                                         <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
                                                     </li>
@@ -217,7 +218,10 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="dropdown dropdown-submenu dropend">
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="load-testing">Load testing</a>
+                                            </li>
+                                            <!-- <li class="dropdown dropdown-submenu dropend">
                                                 <a class="dropdown-item dropdown-toggle" href="load-testing">
                                                     Loat testing
                                                 </a>
@@ -239,8 +243,8 @@
                                                     </li>
 
                                                 </ul>
-                                            </li>
-                                            <li class="dropdown dropdown-submenu dropend">
+                                            </li> -->
+                                            <!-- <li class="dropdown dropdown-submenu dropend">
                                                 <a class="dropdown-item dropdown-toggle" href="wire-rope-services">
                                                     Wire rope socketing and spooling
                                                 </a>
@@ -256,12 +260,10 @@
                                                         </a>
                                                     </li>
                                                 </ul>
-                                            </li>
-                                            <!-- <li class="nav-item">
-                                                <a class="dropdown-item" href="">
-                                                    Wire rope socketing and spooling services
-                                                </a>
                                             </li> -->
+                                            <li class="nav-item">
+                                                <a class="dropdown-item" href="wire-rope-services">Wire rope socketing and spooling</a>
+                                            </li>
 
                                             <!-- end new -->
 

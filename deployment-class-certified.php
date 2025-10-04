@@ -47,7 +47,7 @@
             <!--/column -->
             <div class="col-lg-6 serviceTextContainer">
                 <h2 class="display-4 mb-3">
-                    Class Certified Welders
+                    Deployment of Class-Certified Welders (4G to 6G) & Fabricators During Sailing
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
                     We provide highly skilled, class-certified welders (4G to 6G) and fabricators to carry out critical repairs and fabrication work while the vessel is in operation. Our team ensures minimal downtime and adherence to the highest safety and quality standards during sailing.
