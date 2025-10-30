@@ -26,10 +26,10 @@
                 <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
                 <div class="overlap-grid overlap-grid-2">
                     <div class="item">
-                        <figure class="rounded shadow"><img src="./assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded shadow"><img src="assets/esol/img/common-images/abt-2.png" srcset="assets/esol/img/common-images/abt-2.png 2x" alt=""></figure>
                     </div>
                     <div class="item">
-                        <figure class="rounded shadow"><img src="./assets/img/photos/about3.jpg" srcset="./assets/img/photos/about3@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded shadow"><img src="assets/esol/img/common-images/abt-1.png" srcset="assets/esol/img/common-images/abt-1.png 2x" alt=""></figure>
                     </div>
                 </div>
             </div>

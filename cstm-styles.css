@@ -740,3 +740,232 @@
   }
 }
 /* end Sea Fastening Services and Pre-Fabrication & Offshore Installation Section */
+
+/* new what we do section */
+
+.bg-elements {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.bg-circle {
+  position: absolute;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(216, 64, 64, 0.05), transparent);
+  animation: float 20s infinite ease-in-out;
+}
+
+.bg-circle-1 {
+  width: 400px;
+  height: 400px;
+  top: -100px;
+  right: -100px;
+  animation-delay: 0s;
+}
+
+.bg-circle-2 {
+  width: 300px;
+  height: 300px;
+  bottom: -50px;
+  left: -50px;
+  animation-delay: 5s;
+}
+
+.bg-circle-3 {
+  width: 250px;
+  height: 250px;
+  top: 50%;
+  right: 10%;
+  animation-delay: 10s;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(30px, -30px) scale(1.1);
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+}
+
+/* .container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 80px 40px;
+  position: relative;
+  z-index: 1;
+} */
+
+.section-header {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.section-title {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 15px;
+  letter-spacing: -1px;
+}
+
+.section-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  font-weight: 400;
+}
+
+.title-underline {
+  width: 80px;
+  height: 4px;
+  background: linear-gradient(90deg, #d84040, #ff6b6b);
+  margin: 20px auto;
+  border-radius: 2px;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 35px;
+  margin-top: 50px;
+}
+
+.service-card-what-we-do {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 45px 35px;
+  cursor: pointer;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+  border: 2px solid transparent;
+  position: relative;
+  overflow: hidden;
+}
+
+.service-card-what-we-do::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(216, 64, 64, 0.1), transparent);
+  transition: left 0.5s ease;
+}
+
+.service-card-what-we-do:hover::before {
+  left: 100%;
+}
+
+.service-card-what-we-do:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 40px rgba(216, 64, 64, 0.15);
+  border-color: #d84040;
+}
+
+.card-icon {
+  width: 70px;
+  height: 70px;
+  background: linear-gradient(135deg, #d84040, #ff6b6b);
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25px;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.service-card-what-we-do:hover .card-icon {
+  transform: scale(1.1) rotate(5deg);
+}
+
+.card-icon::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  border-radius: inherit;
+  filter: blur(15px);
+  opacity: 0.3;
+  z-index: -1;
+}
+
+.card-icon svg {
+  width: 35px;
+  height: 35px;
+  stroke: #ffffff;
+  fill: none;
+  stroke-width: 2;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  /* margin-bottom: 12px; */
+  line-height: 1.3;
+  transition: color 0.3s ease;
+}
+
+.service-card-what-we-do:hover .card-title {
+  color: #d84040;
+}
+
+.card-arrow {
+  margin-top: 20px;
+  display: inline-flex;
+  align-items: center;
+  color: #d84040;
+  font-weight: 600;
+  font-size: 0.95rem;
+  /* opacity: 0; */
+  transform: translateX(-10px);
+  transition: all 0.3s ease;
+}
+
+/* .service-card-what-we-do:hover .card-arrow {
+  opacity: 1;
+  transform: translateX(0);
+} */
+
+.card-arrow svg {
+  width: 20px;
+  height: 20px;
+  margin-left: 8px;
+  transition: transform 0.3s ease;
+}
+
+.service-card-what-we-do:hover .card-arrow svg {
+  transform: translateX(5px);
+}
+
+@media (max-width: 768px) {
+  /* .section-title {
+    font-size: 2.2rem;
+  } */
+
+  .services-grid {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .service-card-what-we-do {
+    padding: 35px 25px;
+  }
+}
+.whatWeDoSection {
+  padding: 90px 0;
+}
+
+/* end new what we do section */

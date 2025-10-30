@@ -40,8 +40,7 @@
     <!-- /.wrapper -->
 </section>
 
-<section class="what-we-do-section">
-    <!-- Animated Background Elements -->
+<!-- <section class="what-we-do-section">
     <div class="bg-elements">
         <div class="bg-circle"></div>
         <div class="bg-circle"></div>
@@ -60,10 +59,149 @@
             </p>
         </div>
     </div>
+</section> -->
+
+
+<section class="whatWeDoSection">
+    <div class="bg-elements">
+        <div class="bg-circle bg-circle-1"></div>
+        <div class="bg-circle bg-circle-2"></div>
+        <div class="bg-circle bg-circle-3"></div>
+    </div>
+
+    <div class="container">
+        <div class="section-header">
+            <h1 class="display-4">What We Do</h1>
+            <p class="section-subtitle">Comprehensive OCTG Solutions for the Energy Industry</p>
+        </div>
+
+        <div class="services-grid">
+            <div class="service-card-what-we-do">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z" />
+                    </svg>
+                </div>
+                <h3 class="card-title">OCTG</h3>
+                <a href="refacing-service">
+                    <span class="card-arrow">
+                        Learn More
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path d="M5 12h14M12 5l7 7-7 7" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+
+            <div class="service-card-what-we-do">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24">
+                        <circle cx="12" cy="12" r="10" />
+                        <path d="M12 6v6l4 2" />
+                    </svg>
+                </div>
+                <h3 class="card-title">Pressure Testing and Valve Repair</h3>
+                <a href="pressure-testing-services">
+                    <span class="card-arrow">
+                        Learn More
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path d="M5 12h14M12 5l7 7-7 7" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+
+            <div class="service-card-what-we-do" onclick="navigateToService('welding')">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" />
+                    </svg>
+                </div>
+                <h3 class="card-title">Welding and Fabrication</h3>
+                <a href="deployment-class-certified">
+                    <span class="card-arrow">
+                        Learn More
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path d="M5 12h14M12 5l7 7-7 7" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+
+            <div class="service-card-what-we-do">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
+                        <polyline points="3.27 6.96 12 12.01 20.73 6.96" />
+                        <line x1="12" y1="22.08" x2="12" y2="12" />
+                    </svg>
+                </div>
+                <h3 class="card-title">Load Testing</h3>
+                <a href="load-testing">
+                    <span class="card-arrow">
+                        Learn More
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path d="M5 12h14M12 5l7 7-7 7" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+
+            <div class="service-card-what-we-do">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                    </svg>
+                </div>
+                <h3 class="card-title">Corrosion Control Services</h3>
+                <a href="riding-squad">
+                    <span class="card-arrow">
+                        Learn More
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path d="M5 12h14M12 5l7 7-7 7" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+
+            <div class="service-card-what-we-do">
+                <div class="card-icon">
+                    <svg viewBox="0 0 24 24">
+                        <circle cx="12" cy="12" r="3" />
+                        <path d="M12 1v6m0 6v6m5.2-14.2l-4.2 4.2m-2 2l-4.2 4.2m14.2-5.2h-6m-6 0H1m14.2 5.2l-4.2-4.2m-2-2l-4.2-4.2" />
+                    </svg>
+                </div>
+                <h3 class="card-title">Wire Rope Socketing and Spooling</h3>
+                <a href="wire-rope-services">
+                    <span class="card-arrow">
+                        Learn More
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                            <path d="M5 12h14M12 5l7 7-7 7" />
+                        </svg>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- <script>
+        // Add subtle parallax effect to background elements
+        document.addEventListener('mousemove', (e) => {
+            const circles = document.querySelectorAll('.bg-circle');
+            const x = e.clientX / window.innerWidth;
+            const y = e.clientY / window.innerHeight;
+
+            circles.forEach((circle, index) => {
+                const speed = (index + 1) * 10;
+                const xMove = (x - 0.5) * speed;
+                const yMove = (y - 0.5) * speed;
+                circle.style.transform = `translate(${xMove}px, ${yMove}px)`;
+            });
+        });
+    </script> -->
 </section>
 
 
-<section class="wrapper image-wrapper bg-image bg-overlay " data-image-src="./assets/img/photos/bg1.jpg">
+<section class="wrapper image-wrapper bg-image bg-overlay " data-image-src="assets/esol/img/common-images/7.JPG">
     <div class="container py-18 mt-10">
         <div class="row">
             <div class="col-lg-8">
@@ -82,7 +220,7 @@
     <div class="container pt-15 pt-md-17">
         <div class="row align-items-center">
             <div class="col-md-8 col-lg-6 order-lg-2">
-                <figure class="rounded"><img src="./assets/img/photos/about24.jpg" srcset="./assets/img/photos/about24@2x.jpg 2x" alt=""></figure>
+                <figure class="rounded"><img src="assets/esol/img/common-images/35.JPG" srcset="assets/esol/img/common-images/35.JPG 2x" alt=""></figure>
             </div>
             <!--/column -->
             <div class="col-lg-6">
