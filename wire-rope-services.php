@@ -57,19 +57,19 @@
             <div class="col-lg-6">
                 <div class="row gx-md-5 gy-5">
                     <div class="col-md-4 offset-md-2 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/about2.jpg" srcset="./assets/img/photos/about2.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-1.jpg" srcset="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-1.jpg 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 align-self-end">
-                        <figure class="rounded"><img src="./assets/img/photos/about3.jpg" srcset="./assets/img/photos/about3.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-2.jpg" srcset="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-2.jpg 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-6 offset-md-1">
-                        <figure class="rounded"><img src="./assets/img/photos/about4.jpg" srcset="./assets/img/photos/about4.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-3.jpg" srcset="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-3.jpg 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/abt.jpg" srcset="./assets/img/photos/ab1.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-4.jpg" srcset="assets/esol/img/service-images/wire-rope-soketing/wire-rope-spooling-4.jpg 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>

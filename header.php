@@ -117,7 +117,7 @@
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
                                                     class="dropdown-item dropdown-toggle"
-                                                    href="octg-inspection">Welding and fabrication</a>
+                                                    href="deployment-class-certified">Welding and fabrication</a>
                                                 <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="deployment-class-certified">

@@ -1,5 +1,6 @@
 .header-logo {
-  width: 7.5rem;
+  /* width: 7.5rem; */
+  width: 8.5rem;
 }
 
 .footer-logo {
@@ -17,7 +18,8 @@
 }
 
 .image-wrapper.bg-cover::before {
-  background: rgba(30, 34, 40, 0.65);
+  /* background: rgba(30, 34, 40, 0.65); */
+  background: rgba(30, 34, 40, 0.3);
 }
 
 .certificate-img {
