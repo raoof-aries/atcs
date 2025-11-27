@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
-    <div class="container pt-17 pb-17 pt-md-17 pb-md-17 text-center">
+   <div class="container pt-17 pb-17 pt-md-17 pb-md-10 text-center">
         <div class="row">
             <div class="col-lg-8 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Thread Inspection and Repair</h1>
@@ -38,7 +38,7 @@
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/g4.jpg" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/OCTG-maintenance/thread-inspection/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/OCTG-maintenance/thread-inspection/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>

@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
-    <div class="container pt-17 pb-17 pt-md-17 pb-md-17 text-center">
+   <div class="container pt-17 pb-17 pt-md-17 pb-md-10 text-center">
         <div class="row">
             <div class="col-lg-8 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Pressure Testing Services</h1>
@@ -58,7 +58,7 @@
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
                     Hydrostatic Testing: Uses water or another liquid to pressurize the system.<br>
-                    Pneumatic Testing: Uses air or inert gas for pressurization (requires extra safety measures).
+                    Pneumatic Testing: Uses air or inert gas for pressurization.
                 </p>
             </div>
             <!--/column -->

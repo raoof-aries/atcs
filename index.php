@@ -40,26 +40,45 @@
     <!-- /.wrapper -->
 </section>
 
-<!-- <section class="what-we-do-section">
-    <div class="bg-elements">
-        <div class="bg-circle"></div>
-        <div class="bg-circle"></div>
-        <div class="bg-circle"></div>
-        <div class="bg-line"></div>
-        <div class="bg-line"></div>
-        <div class="gear"></div>
-        <div class="gear"></div>
-    </div>
 
-    <div class="container">
-        <div class="section-header">
-            <h2 class="display-4 section-title">What We Do</h2>
-            <p class="section-subtitle">
-                We specialize in OCTG maintenance and repair, offering expert pressure testing and valve repair services to guarantee the integrity of your operations. Our load testing services ensure that your equipment can handle any challenge, while our wire rope socketing and spooling services promote safe and reliable use.
-            </p>
+<section class="wrapper bg-light">
+    <div class="container py-10 py-md-14">
+        <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+            <div class="col-lg-6 position-relative order-lg-2">
+                <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
+                <div class="overlap-grid overlap-grid-2">
+                    <div class="item">
+                        <figure class="rounded shadow"><img src="assets/esol/img/common-images/abt-2.png" srcset="assets/esol/img/common-images/abt-2.png 2x" alt=""></figure>
+                    </div>
+                    <div class="item">
+                        <figure class="rounded shadow"><img src="assets/esol/img/common-images/abt-1.png" srcset="assets/esol/img/common-images/abt-1.png 2x" alt=""></figure>
+                    </div>
+                </div>
+            </div>
+            <!--/column -->
+            <div class="col-lg-6">
+                <h2 class="display-4 mb-3">
+                    Welcome to Aries Trading Contracting and Services!
+                </h2>
+                <p class="">
+                    We specialize in providing timely, high-quality, and cost-effective Repair & Maintenance services for the Marine, Offshore, oil and gas and Industrial sectors. Our comprehensive range of services ensures the quality of your projects and your assets operates safely and efficiently. With a strong commitment to quality and customer satisfaction, we adhere to the highest standards of safety and excellence. we are here to support your business every step of the way.
+                </p>
+                <p class="mb-6">
+                    Explore our services and see how we can help you enhance performance and reliability today!
+                </p>
+                <!-- < href="#" class="btn btn-primary rounded-pill mb-0">Learn More</ a> -->
+
+                <!--/.row -->
+            </div>
+            <!--/column -->
         </div>
+        <!--/.row -->
+
     </div>
-</section> -->
+    <!-- /.container -->
+</section>
+
+
 
 
 <section class="whatWeDoSection">
@@ -72,7 +91,6 @@
     <div class="container">
         <div class="section-header">
             <h1 class="display-4">What We Do</h1>
-            <p class="section-subtitle">Comprehensive OCTG Solutions for the Energy Industry</p>
         </div>
 
         <div class="services-grid">
@@ -256,8 +274,8 @@
 </div>
 <!-- /.content-wrapper -->
 <section class="wrapper bg-light">
-    <div class="container-card pt-15 pt-md-17">
-        <div class="card image-wrapper bg-full bg-image bg-overlay bg-overlay-light-500 pb-15" data-image-src="./assets/img/photos/bg22.png">
+    <div class="container-card py-15 pt-md-17">
+        <div class="card image-wrapper bg-full bg-image bg-overlay bg-overlay-light-500" data-image-src="./assets/img/photos/bg22.png">
             <div class="card-body py-14 px-0">
                 <div class="container">
                     <div class="row gx-lg-8 gx-xl-12 gy-10 gy-lg-0">
@@ -300,89 +318,7 @@
         <!--/.card -->
     </div>
     <!-- /.container-card -->
-    <div class="container">
-        <div class="grid mb-18">
-            <div class="row isotope gy-6 mt-n18">
-                <div class="item col-md-6 col-xl-3">
-                    <div class="card shadow-lg card-border-bottom border-soft-primary">
-                        <div class="card-body">
-                            <blockquote class="border-0 mb-0">
-                                <p>“Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta. Cras mattis consectetur.”</p>
-                                <div class="blockquote-details">
-                                    <div class="info ps-0">
-                                        <h5 class="mb-1">Coriss Ambady</h5>
-                                        <p class="mb-0">Financial Analyst</p>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </div>
-                        <!-- /.card-body -->
-                    </div>
-                    <!-- /.card -->
-                </div>
-                <!--/column -->
-                <div class="item col-md-6 col-xl-3">
-                    <div class="card shadow-lg card-border-bottom border-soft-primary">
-                        <div class="card-body">
-                            <blockquote class="border-0 mb-0">
-                                <p>“Fusce dapibus, tellus ac cursus tortor mauris condimentum fermentum massa justo sit amet purus sit amet fermentum.”</p>
-                                <div class="blockquote-details">
-                                    <div class="info ps-0">
-                                        <h5 class="mb-1">Cory Zamora</h5>
-                                        <p class="mb-0">Marketing Specialist</p>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </div>
-                        <!-- /.card-body -->
-                    </div>
-                    <!-- /.card -->
-                </div>
-                <!--/column -->
-                <div class="item col-md-6 col-xl-3">
-                    <div class="card shadow-lg card-border-bottom border-soft-primary">
-                        <div class="card-body">
-                            <blockquote class="border-0 mb-0">
-                                <p>“Curabitur blandit tempus porttitor. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor eu rutrum. Nulla vitae libero.”</p>
-                                <div class="blockquote-details">
-                                    <div class="info ps-0">
-                                        <h5 class="mb-1">Nikolas Brooten</h5>
-                                        <p class="mb-0">Sales Manager</p>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </div>
-                        <!-- /.card-body -->
-                    </div>
-                    <!-- /.card -->
-                </div>
-                <!--/column -->
-                <div class="item col-md-6 col-xl-3">
-                    <div class="card shadow-lg card-border-bottom border-soft-primary">
-                        <div class="card-body">
-                            <blockquote class="border-0 mb-0">
-                                <p>“Etiam adipiscing tincidunt elit convallis felis suscipit ut. Phasellus rhoncus eu tincidunt auctor nullam rutrum, pharetra augue.”</p>
-                                <div class="blockquote-details">
-                                    <div class="info ps-0">
-                                        <h5 class="mb-1">Coriss Ambady</h5>
-                                        <p class="mb-0">Financial Analyst</p>
-                                    </div>
-                                </div>
-                            </blockquote>
-                        </div>
-                        <!-- /.card-body -->
-                    </div>
-                    <!-- /.card -->
-                </div>
-                <!--/column -->
-            </div>
-            <!-- /.row -->
-        </div>
-        <!-- /.grid-view -->
 
-
-    </div>
-    <!-- /.container -->
 </section>
 
 

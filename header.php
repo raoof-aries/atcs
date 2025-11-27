@@ -60,11 +60,11 @@
                                             class="nav-link "
                                             href="./">Home</a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a
                                             class="nav-link "
                                             href="about">About</a>
-                                    </li>
+                                    </li> -->
                                     <li class="nav-item dropdown">
                                         <a
                                             class="nav-link dropdown-toggle"
@@ -73,9 +73,9 @@
                                         <ul class="dropdown-menu">
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
-                                                    class="dropdown-item dropdown-toggle"
+                                                    class="dropdown-item"
                                                     href="octg-inspection">OCTG</a>
-                                                <ul class="dropdown-menu">
+                                                <!-- <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Straightening</a>
                                                     </li>
@@ -99,26 +99,13 @@
                                                             High-pressure washing and storage
                                                         </a>
                                                     </li>
-                                                    <!-- <li class="nav-item">
-                                                        <a class="dropdown-item" href="yard-facility">
-                                                            Yard Facility for Storage and Maintenance
-                                                        </a>
-                                                    </li> -->
-                                                    <!-- <li class="nav-item">
-                                                        <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="bottom-hole-assembly-inspection">Bottom Hole Assembly Inspection</a>
-                                                    </li> -->
-
-
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
-                                                    class="dropdown-item dropdown-toggle"
+                                                    class="dropdown-item"
                                                     href="deployment-class-certified">Welding and fabrication</a>
-                                                <ul class="dropdown-menu">
+                                                <!-- <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="deployment-class-certified">
                                                             Class Certified Welders
@@ -126,47 +113,21 @@
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="port-based-fabrication-services">
-                                                            <!-- Port-Based Fabrication Services -->
                                                             Fabrication And Sea Fastening Services
                                                         </a>
                                                     </li>
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="structural-steel-repairs">
-                                                            <!-- Structural Steel Repairs -->
                                                             Structural repairs and modifications
                                                         </a>
                                                     </li>
-                                                    <!-- <li class="nav-item">
-                                                        <a class="dropdown-item" href="structural-piping-modifications">
-                                                            Structural & Piping Modifications
-                                                        </a>
-                                                    </li> -->
-
-                                                    <!-- <li class="nav-item">
-                                                        <a class="dropdown-item" href="pre-fabrication-offshore-installation">
-                                                            Pre-Fabrication & Offshore Installation
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="sea-fastening-services">
-                                                            Sea fastening services for offshore mobilizations
-                                                        </a>
-                                                    </li> -->
-                                                    <!-- <li class="nav-item">
-                                                        <a class="dropdown-item" href="tubing-casing-inspection">Tubing & Casing Inspection</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="bottom-hole-assembly-inspection">Bottom Hole Assembly Inspection</a>
-                                                    </li> -->
-
-
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend">
                                                 <a
-                                                    class="dropdown-item dropdown-toggle"
+                                                    class="dropdown-item"
                                                     href="corrosion-control-services">Corrosion control services</a>
-                                                <ul class="dropdown-menu">
+                                                <!-- <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="riding-squad">Riding Squad</a>
                                                     </li>
@@ -179,7 +140,7 @@
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="helideck-maintenance">Helideck Maintenance</a>
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <!-- <li class="nav-item">
                                                 <a class="dropdown-item" href="marine-offshore-fabrication-services">Marine & Offshore <br /> Fabrication Services</a>
@@ -192,10 +153,10 @@
 
                                             <!-- new -->
                                             <li class="dropdown dropdown-submenu dropend">
-                                                <a class="dropdown-item dropdown-toggle" href="pressure-testing-valve-repair">
+                                                <a class="dropdown-item" href="pressure-testing-valve-repair">
                                                     Pressure testing and valve repair
                                                 </a>
-                                                <ul class="dropdown-menu">
+                                                <!-- <ul class="dropdown-menu">
                                                     <li class="nav-item">
                                                         <a class="dropdown-item" href="pressure-testing-services">
                                                             Pressure Testing Services
@@ -216,7 +177,7 @@
                                                             Load Cell Calibration
                                                         </a>
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li class="nav-item">
                                                 <a class="dropdown-item" href="load-testing">Load testing</a>

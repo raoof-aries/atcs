@@ -884,6 +884,10 @@
   transition: all 0.3s ease;
   position: relative;
 }
+.card-icon i {
+  font-size: 40px;
+  color: #fff;
+}
 
 .service-card-what-we-do:hover .card-icon {
   transform: scale(1.1) rotate(5deg);
@@ -965,7 +969,8 @@
   }
 }
 .whatWeDoSection {
-  padding: 90px 0;
+  /* padding: 90px 0; */
+  padding: 20px 0 60px 0;
 }
 
 /* end new what we do section */
