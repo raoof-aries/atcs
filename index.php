@@ -81,142 +81,132 @@
 
 
 
-<section class="whatWeDoSection">
-    <div class="bg-elements">
-        <div class="bg-circle bg-circle-1"></div>
-        <div class="bg-circle bg-circle-2"></div>
-        <div class="bg-circle bg-circle-3"></div>
+<section class="wwd">
+    <!-- <div class="wwd-bg"></div> -->
+
+    <div class="wwd-header">
+        <div>
+            <div class="wwd-eyebrow">Our Services</div>
+            <h2 class="wwd-title">What We <em>Do</em></h2>
+        </div>
+        <p class="wwd-subtitle">Precision-driven solutions for the oil &amp; gas industry — delivered by certified professionals.</p>
     </div>
 
-    <div class="container">
-        <div class="section-header">
-            <h1 class="display-4">What We Do</h1>
-        </div>
+    <div class="wwd-grid">
 
-        <div class="services-grid">
-            <div class="service-card-what-we-do">
-                <div class="card-icon">
-                    <svg viewBox="0 0 24 24">
-                        <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z" />
-                    </svg>
-                </div>
-                <h3 class="card-title">OCTG</h3>
-                <a href="octg-inspection">
-                    <span class="card-arrow">
-                        Learn More
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <path d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </span>
-                </a>
+        <a class="wwd-card" href="octg-inspection">
+            <div class="card-strip"></div>
+            <div class="card-head">
+                <div class="card-icon">🔩</div>
+                <span class="card-num">01</span>
             </div>
+            <div class="card-title">OCTG Inspection</div>
+            <p class="card-desc">Full-service Oil Country Tubular Goods inspection ensuring integrity, compliance, and operational readiness across all pipe grades.</p>
+            <div class="card-divider"></div>
+            <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg></div>
+        </a>
 
-            <div class="service-card-what-we-do">
-                <div class="card-icon">
-                    <svg viewBox="0 0 24 24">
-                        <circle cx="12" cy="12" r="10" />
-                        <path d="M12 6v6l4 2" />
-                    </svg>
-                </div>
-                <h3 class="card-title">Pressure Testing and Valve Repair</h3>
-                <a href="pressure-testing-services">
-                    <span class="card-arrow">
-                        Learn More
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <path d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </span>
-                </a>
+        <a class="wwd-card" href="pressure-testing-services">
+            <div class="card-strip"></div>
+            <div class="card-head">
+                <div class="card-icon">🔧</div>
+                <span class="card-num">02</span>
             </div>
+            <div class="card-title">Pressure Testing &amp; Valve Repair</div>
+            <p class="card-desc">Hydrostatic and pneumatic pressure testing with certified valve repair and reconditioning to industry standards.</p>
+            <div class="card-divider"></div>
+            <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg></div>
+        </a>
 
-            <div class="service-card-what-we-do">
-                <div class="card-icon">
-                    <svg viewBox="0 0 24 24">
-                        <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z" />
-                    </svg>
-                </div>
-                <h3 class="card-title">Welding and Fabrication</h3>
-                <a href="deployment-class-certified">
-                    <span class="card-arrow">
-                        Learn More
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <path d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </span>
-                </a>
+        <a class="wwd-card" href="deployment-class-certified">
+            <div class="card-strip"></div>
+            <div class="card-head">
+                <div class="card-icon">🔥</div>
+                <span class="card-num">03</span>
             </div>
+            <div class="card-title">Welding &amp; Fabrication</div>
+            <p class="card-desc">Deployment-class certified welding and custom metal fabrication for structural and process equipment applications.</p>
+            <div class="card-divider"></div>
+            <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg></div>
+        </a>
 
-            <div class="service-card-what-we-do">
-                <div class="card-icon">
-                    <svg viewBox="0 0 24 24">
-                        <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
-                        <polyline points="3.27 6.96 12 12.01 20.73 6.96" />
-                        <line x1="12" y1="22.08" x2="12" y2="12" />
-                    </svg>
-                </div>
-                <h3 class="card-title">Load Testing</h3>
-                <a href="load-testing">
-                    <span class="card-arrow">
-                        Learn More
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <path d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </span>
-                </a>
+        <a class="wwd-card" href="load-testing">
+            <div class="card-strip"></div>
+            <div class="card-head">
+                <div class="card-icon">⚖️</div>
+                <span class="card-num">04</span>
             </div>
+            <div class="card-title">Load Testing</div>
+            <p class="card-desc">Rated and proof-load testing for lifting equipment, rigging, and structural components with certified documentation.</p>
+            <div class="card-divider"></div>
+            <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg></div>
+        </a>
 
-            <div class="service-card-what-we-do">
-                <div class="card-icon">
-                    <svg viewBox="0 0 24 24">
-                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-                    </svg>
-                </div>
-                <h3 class="card-title">Corrosion Control Services</h3>
-                <a href="corrosion-control-services">
-                    <span class="card-arrow">
-                        Learn More
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <path d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </span>
-                </a>
+        <a class="wwd-card" href="corrosion-control-services">
+            <div class="card-strip"></div>
+            <div class="card-head">
+                <div class="card-icon">🛡️</div>
+                <span class="card-num">05</span>
             </div>
+            <div class="card-title">Corrosion Control Services</div>
+            <p class="card-desc">Protective coating, cathodic protection, and chemical inhibition programs to extend asset life and prevent failures.</p>
+            <div class="card-divider"></div>
+            <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg></div>
+        </a>
 
-            <div class="service-card-what-we-do">
-                <div class="card-icon">
-                    <svg viewBox="0 0 24 24">
-                        <circle cx="12" cy="12" r="3" />
-                        <path d="M12 1v6m0 6v6m5.2-14.2l-4.2 4.2m-2 2l-4.2 4.2m14.2-5.2h-6m-6 0H1m14.2 5.2l-4.2-4.2m-2-2l-4.2-4.2" />
-                    </svg>
-                </div>
-                <h3 class="card-title">Wire Rope Socketing and Spooling</h3>
-                <a href="wire-rope-services">
-                    <span class="card-arrow">
-                        Learn More
-                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
-                            <path d="M5 12h14M12 5l7 7-7 7" />
-                        </svg>
-                    </span>
-                </a>
+        <a class="wwd-card" href="wire-rope-services">
+            <div class="card-strip"></div>
+            <div class="card-head">
+                <div class="card-icon">🪢</div>
+                <span class="card-num">06</span>
             </div>
-        </div>
+            <div class="card-title">Wire Rope Socketing &amp; Spooling</div>
+            <p class="card-desc">Precision wire rope termination, socketing, and spooling for offshore, marine, and lifting operations worldwide.</p>
+            <div class="card-divider"></div>
+            <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg></div>
+        </a>
+
     </div>
-    <!-- <script>
-        // Add subtle parallax effect to background elements
-        document.addEventListener('mousemove', (e) => {
-            const circles = document.querySelectorAll('.bg-circle');
-            const x = e.clientX / window.innerWidth;
-            const y = e.clientY / window.innerHeight;
 
-            circles.forEach((circle, index) => {
-                const speed = (index + 1) * 10;
-                const xMove = (x - 0.5) * speed;
-                const yMove = (y - 0.5) * speed;
-                circle.style.transform = `translate(${xMove}px, ${yMove}px)`;
-            });
-        });
-    </script> -->
+    <!-- <div class="wwd-bar">
+        <div class="bar-stats">
+            <div class="bar-stat">
+                <span class="bar-stat-num">6</span>
+                <span class="bar-stat-label">Core Services</span>
+            </div>
+            <div class="bar-divider"></div>
+            <div class="bar-stat">
+                <span class="bar-stat-num">20+</span>
+                <span class="bar-stat-label">Years Experience</span>
+            </div>
+            <div class="bar-divider"></div>
+            <div class="bar-stat">
+                <span class="bar-stat-num">100%</span>
+                <span class="bar-stat-label">Certified Teams</span>
+            </div>
+        </div>
+        <a class="bar-cta" href="/services">
+            View All Services
+            <svg viewBox="0 0 24 24">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+            </svg>
+        </a>
+    </div> -->
+
 </section>
+
 
 
 <section class="wrapper image-wrapper bg-image bg-overlay " data-image-src="assets/esol/img/common-images/7.JPG">
