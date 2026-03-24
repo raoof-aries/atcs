@@ -6,7 +6,7 @@
                 <h1 class="display-1 mb-3 text-white">OCTG maintenance and repair services</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="./">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">OCTG Maintenance and Repair Services</li>
                     </ol>
                 </nav>
@@ -43,6 +43,7 @@
                 <p class="mb-4">
                     With a focus on quality and customer satisfaction, we ensure that our services meet the highest standards of safety and excellence. Contact us today to learn more about how we can support your drilling operations!
                 </p>
+                <a href="deployment-class-certified" class="btn btn-primary rounded mb-0 text-nowrap">View More</a>
 
 
             </div>

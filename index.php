@@ -61,11 +61,11 @@
                     Welcome to Aries Trading Contracting and Services!
                 </h2>
                 <p class="">
-                    We specialize in providing timely, high-quality, and cost-effective Repair & Maintenance services for the Marine, Offshore, oil and gas and Industrial sectors. Our comprehensive range of services ensures the quality of your projects and your assets operates safely and efficiently. With a strong commitment to quality and customer satisfaction, we adhere to the highest standards of safety and excellence. we are here to support your business every step of the way.
+                    Aries Marine Co WLL has been a leader in providing accurate services in the different discipline since its inception 2009, we are equipped and powered by a team of committed professionals and Engineers using cutting edge technology. We provide a wide range of services to clients among Oil & Gas, Offshore, Onshore, Marine, petrochemical, power construction, Engineering, pharmaceutical, hotel and industrial sector.
                 </p>
-                <p class="mb-6">
+                <!-- <p class="mb-6">
                     Explore our services and see how we can help you enhance performance and reliability today!
-                </p>
+                </p> -->
                 <!-- < href="#" class="btn btn-primary rounded-pill mb-0">Learn More</ a> -->
 
                 <!--/.row -->
@@ -97,7 +97,7 @@
         <a class="wwd-card" href="octg-inspection">
             <div class="card-strip"></div>
             <div class="card-head">
-                <div class="card-icon">🔩</div>
+                <div class="card-icon-wwd-card">🔩</div>
                 <span class="card-num">01</span>
             </div>
             <div class="card-title">OCTG Inspection</div>
@@ -105,13 +105,14 @@
             <div class="card-divider"></div>
             <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
                     <path d="M5 12h14M12 5l7 7-7 7" />
-                </svg></div>
+                </svg>
+            </div>
         </a>
 
         <a class="wwd-card" href="pressure-testing-services">
             <div class="card-strip"></div>
             <div class="card-head">
-                <div class="card-icon">🔧</div>
+                <div class="card-icon-wwd-card">🔧</div>
                 <span class="card-num">02</span>
             </div>
             <div class="card-title">Pressure Testing &amp; Valve Repair</div>
@@ -122,13 +123,14 @@
                 </svg></div>
         </a>
 
-        <a class="wwd-card" href="deployment-class-certified">
+        <!-- <a class="wwd-card" href="deployment-class-certified"> -->
+        <a class="wwd-card" href="welding-fab">
             <div class="card-strip"></div>
             <div class="card-head">
-                <div class="card-icon">🔥</div>
+                <div class="card-icon-wwd-card">🔥</div>
                 <span class="card-num">03</span>
             </div>
-            <div class="card-title">Welding &amp; Fabrication</div>
+            <div class="card-title">Welding & Fabrication</div>
             <p class="card-desc">Deployment-class certified welding and custom metal fabrication for structural and process equipment applications.</p>
             <div class="card-divider"></div>
             <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
@@ -139,7 +141,7 @@
         <a class="wwd-card" href="load-testing">
             <div class="card-strip"></div>
             <div class="card-head">
-                <div class="card-icon">⚖️</div>
+                <div class="card-icon-wwd-card">⚖️</div>
                 <span class="card-num">04</span>
             </div>
             <div class="card-title">Load Testing</div>
@@ -153,7 +155,7 @@
         <a class="wwd-card" href="corrosion-control-services">
             <div class="card-strip"></div>
             <div class="card-head">
-                <div class="card-icon">🛡️</div>
+                <div class="card-icon-wwd-card">🛡️</div>
                 <span class="card-num">05</span>
             </div>
             <div class="card-title">Corrosion Control Services</div>
@@ -167,7 +169,7 @@
         <a class="wwd-card" href="wire-rope-services">
             <div class="card-strip"></div>
             <div class="card-head">
-                <div class="card-icon">🪢</div>
+                <div class="card-icon-wwd-card">🪢</div>
                 <span class="card-num">06</span>
             </div>
             <div class="card-title">Wire Rope Socketing &amp; Spooling</div>
@@ -210,7 +212,7 @@
 
 
 <section class="wrapper image-wrapper bg-image bg-overlay " data-image-src="assets/esol/img/common-images/7.JPG">
-    <div class="container py-18 mt-10">
+    <div class="container py-18">
         <div class="row">
             <div class="col-lg-8">
                 <h2 class="fs-16 text-uppercase text-line text-white mb-3">LET’S WORK TOGETHER</h2>

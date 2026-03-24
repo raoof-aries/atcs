@@ -86,7 +86,7 @@
                     <div class="card">
                         <div class="card-body px-6 py-5">
                             <h4 class="mb-1">Ajith V.S</h4>
-                            <p class="mb-0">Assistant Manager</p>
+                            <p class="mb-0">Manager</p>
                             <div class="pt-3">
                                 <div class="d-flex flex-row">
                                     <div>

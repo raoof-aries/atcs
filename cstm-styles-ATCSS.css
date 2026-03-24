@@ -79,9 +79,9 @@
 
 .wwd {
   position: relative;
-  padding: 0 64px 30px;
+  padding: 90px;
   overflow: hidden;
-  /* background: #fcf3f3; */
+  background: #fcf3f3;
 }
 
 .wwd-bg {
@@ -258,11 +258,11 @@
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 /* Emoji icon */
-.card-icon {
+.card-icon-wwd-card {
   width: 54px;
   height: 54px;
   background: rgba(216, 64, 64, 0.08);
@@ -280,7 +280,7 @@
 }
 
 .wwd-card:hover .card-icon {
-  background: rgba(216, 64, 64, 0.14);
+  background: rgba(216, 64, 64, 0.14) !important;
   transform: scale(1.1) rotate(5deg);
 }
 
@@ -315,7 +315,7 @@
   line-height: 1.75;
   font-weight: 400;
   flex: 1;
-  margin-bottom: 26px;
+  margin-bottom: 20px;
 }
 
 /* Divider */
@@ -460,7 +460,8 @@
 
 @media (max-width: 960px) {
   .wwd {
-    padding: 0 28px 30px;
+    padding: 50px 30px;
+    /* margin: 10px; */
   }
   .wwd-grid {
     grid-template-columns: 1fr 1fr;
@@ -476,7 +477,7 @@
 
 @media (max-width: 560px) {
   .wwd {
-    padding: 0 18px 50px;
+    padding: 50px 18px;
   }
   .wwd-grid {
     grid-template-columns: 1fr;
@@ -959,7 +960,7 @@
 .card-icon {
   width: 70px;
   height: 70px;
-  /* background: linear-gradient(135deg, #d84040, #ff6b6b); */
+  background: linear-gradient(135deg, #d84040, #ff6b6b);
   border-radius: 16px;
   display: flex;
   align-items: center;
