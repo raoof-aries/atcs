@@ -43,7 +43,7 @@
                 <p class="mb-4">
                     With a focus on quality and customer satisfaction, we ensure that our services meet the highest standards of safety and excellence. Contact us today to learn more about how we can support your drilling operations!
                 </p>
-                <a href="deployment-class-certified" class="btn btn-primary rounded mb-0 text-nowrap">View More</a>
+                <!-- <a href="" class="btn btn-primary rounded mb-0 text-nowrap">View More</a> -->
 
 
             </div>

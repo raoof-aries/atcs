@@ -60,7 +60,7 @@
 
 
 
-<section class="whatWeDoSection">
+<section class="whatWeDoSection d-none">
     <div class="bg-elements">
         <div class="bg-circle bg-circle-1"></div>
         <div class="bg-circle bg-circle-2"></div>
