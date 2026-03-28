@@ -234,7 +234,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link "
-                                            href="#">Gallery</a>
+                                            href="#gallery">Gallery</a>
                                     </li>
                                     <li class="nav-item">
                                         <a
@@ -245,9 +245,9 @@
                                     <!-- /.navbar-nav -->
                                     <div class="offcanvas-footer d-lg-none">
                                         <div>
-                                            <a href="mailto:first.last@email.com" class="link-inverse">info@email.com</a>
+                                            <a href="mailto:repairs.qa@ariesmar.com" class="link-inverse">repairs.qa@ariesmar.com</a>
                                             <br />
-                                            00 (123) 456 78 90 <br />
+                                            00974 44174897 <br />
                                             <nav class="nav social social-white mt-4">
                                                 <a href="#"><i class="uil uil-twitter"></i></a>
                                                 <a href="#"><i class="uil uil-facebook-f"></i></a>

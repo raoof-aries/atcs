@@ -316,7 +316,7 @@
 
 <!-- gallery -->
 
-<section class="wrapper bg-light">
+<section class="wrapper bg-light" id="gallery">
     <div class="container">
         <div class="row">
             <div class="col-lg-9 col-xl-8 col-xxl-7 mx-auto text-center">
@@ -334,6 +334,9 @@
         <div class="swiper-container blog grid-view mb-17 mb-md-19" data-margin="30" data-nav="true" data-dots="true" data-items-xxl="3" data-items-md="2" data-items-xs="1">
             <div class="swiper">
                 <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <figure class="rounded"><img src="assets/esol/img/slider/load-testing.jpg" alt="" /></figure>
+                    </div>
                     <div class="swiper-slide">
                         <figure class="rounded"><img src="assets/esol/img/slider/1.png" alt="" /></figure>
                     </div>
