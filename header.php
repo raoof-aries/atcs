@@ -234,7 +234,7 @@
                                     <li class="nav-item">
                                         <a
                                             class="nav-link "
-                                            href="#gallery">Gallery</a>
+                                            href="index#gallery">Gallery</a>
                                     </li>
                                     <li class="nav-item">
                                         <a

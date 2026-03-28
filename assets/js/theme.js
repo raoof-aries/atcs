@@ -229,6 +229,15 @@ var theme = {
    * Requires assets/js/vendor/smoothscroll.js
    */
   anchorSmoothScroll: () => {
+    const isHome = window.location.pathname === '/' || window.location.pathname.endsWith('/') || window.location.pathname.endsWith('index.php') || window.location.pathname.endsWith('index.html') || window.location.pathname.includes('index');
+    if (isHome) {
+      const galleryLinks = document.querySelectorAll('a[href="index#gallery"]');
+      galleryLinks.forEach(link => {
+        link.setAttribute("href", "#gallery");
+        link.classList.add("scroll");
+      });
+    }
+
     const links = document.querySelectorAll(".scroll");
     for(const link of links) {
       link.addEventListener("click", clickHandler);

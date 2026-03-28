@@ -100,7 +100,7 @@
                 <div class="card-icon-wwd-card">🔩</div>
                 <span class="card-num">01</span>
             </div>
-            <div class="card-title">OCTG Inspection</div>
+            <div class="card-title">OCTG Maintenance And Repair Services</div>
             <p class="card-desc">Full-service Oil Country Tubular Goods inspection ensuring integrity, compliance, and operational readiness across all pipe grades.</p>
             <div class="card-divider"></div>
             <div class="card-cta">Learn More <svg viewBox="0 0 24 24">
