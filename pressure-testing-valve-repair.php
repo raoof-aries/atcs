@@ -2,7 +2,7 @@
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
     <div class="container pt-17 pb-17 pt-md-17 pb-md-10 text-center">
         <div class="row">
-            <div class="col-lg-8 mx-auto">
+            <div class="col-12 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Pressure Testing & Valve Repair Services</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
@@ -23,7 +23,7 @@
 <section class="wrapper bg-light">
     <div class="container py-14 py-md-14">
         <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
-            <div class="col-lg-6 position-relative order-lg-2">
+            <div class="col-lg-5 position-relative order-lg-2">
                 <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
                 <div class="overlap-grid overlap-grid-2">
                     <div class="item">
@@ -35,7 +35,7 @@
                 </div>
             </div>
             <!--/column -->
-            <div class="col-lg-6 serviceTextContainer">
+            <div class="col-lg-7 serviceTextContainer">
                 <h2 class="display-4 mb-3">Pressure Testing & Valve Repair Services</h2>
                 <p class="mb-4">
                     Our Pressure Testing and Valve Servicing Facility is a fully equipped, state-of-the-art center dedicated to the inspection, maintenance, calibration, and certification of industrial valves and pressure-containing equipment. Designed to meet international safety and quality standards, our facility supports a wide range of services including hydrostatic and pneumatic pressure testing, PSV calibration, valve repair, and reconditioning.
@@ -53,6 +53,97 @@
 
         <!--  -->
 
+        <section class="ptvr-showcase">
+            <div class="ptvr-showcase-orb ptvr-showcase-orb-1"></div>
+            <div class="ptvr-showcase-orb ptvr-showcase-orb-2"></div>
+            <div class="ptvr-showcase-top">
+                <div class="ptvr-intro">
+                    <span class="ptvr-eyebrow">Facility Overview</span>
+                    <h3 class="ptvr-title">Integrated pressure testing and valve servicing under one controlled workshop environment.</h3>
+                    <p class="ptvr-lead">
+                        Built for critical assets and shutdown-sensitive operations, our facility combines inspection, repair, calibration, hydro and pneumatic testing, and final certification in one streamlined service flow.
+                    </p>
+                </div>
+                <div class="ptvr-stat-card">
+                    <span class="ptvr-stat-label">Service Coverage</span>
+                    <div class="ptvr-stat-value">3 Core Areas</div>
+                    <p>Pressure testing, facility capabilities, and valve servicing scope delivered with traceable, workshop-based execution.</p>
+                </div>
+            </div>
+
+            <div class="row g-4 ptvr-grid">
+                <div class="col-xl-4 col-md-6">
+                    <article class="ptvr-panel">
+                        <div class="ptvr-panel-head">
+                            <span class="ptvr-panel-kicker">01</span>
+                            <h4>Pressure Test Coverage</h4>
+                        </div>
+                        <p class="ptvr-panel-copy">Comprehensive hydrostatic and pneumatic testing support for pressure-containing systems and connected components.</p>
+                        <ul class="ptvr-list">
+                            <li>Valves including PSV, control valves, and isolation valves</li>
+                            <li>Cargo hoses and flexible hoses</li>
+                            <li>Chiksan lines and associated fittings</li>
+                            <li>Pipelines and piping systems</li>
+                            <li>Silo tanks, air receivers, and air tanks</li>
+                            <li>Pressure vessels and related equipment</li>
+                        </ul>
+                    </article>
+                </div>
+                <div class="col-xl-4 col-md-6">
+                    <article class="ptvr-panel ptvr-panel-accent">
+                        <div class="ptvr-panel-head">
+                            <span class="ptvr-panel-kicker">02</span>
+                            <h4>Valve Servicing Facility</h4>
+                        </div>
+                        <p class="ptvr-panel-copy">A dedicated workshop layout designed for precise valve repair, finishing, testing, and clean reassembly.</p>
+                        <ul class="ptvr-list">
+                            <li>Dedicated valve servicing workshop</li>
+                            <li>PSV test bench with air and water test capability</li>
+                            <li>Lapping machines for seat finishing</li>
+                            <li>Sandblasting and painting facilities</li>
+                            <li>Machining equipment including lathe and grinding</li>
+                            <li>Hydro and pneumatic test setups with clean assembly area</li>
+                        </ul>
+                    </article>
+                </div>
+                <div class="col-xl-4 col-md-12">
+                    <article class="ptvr-panel ptvr-panel-dark">
+                        <div class="ptvr-panel-head">
+                            <span class="ptvr-panel-kicker">03</span>
+                            <h4 style="color: #fff;">Scope of Service</h4>
+                        </div>
+                        <p class="ptvr-panel-copy">Each valve passes through a structured repair and verification sequence focused on reliability, sealing performance, and readiness for return to service.</p>
+                        <ul class="ptvr-list">
+                            <li>Inspection, condition assessment, dismantling, and reassembly</li>
+                            <li>Cleaning, sandblasting, and surface preparation</li>
+                            <li>Lapping of valve seats and discs</li>
+                            <li>Replacement of gaskets, seals, O-rings, and packing</li>
+                            <li>Minor machining, refurbishment, and set pressure adjustment</li>
+                            <li>Hydrostatic, pneumatic, leak, and seat tightness testing</li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+
+            <div class="ptvr-bottom">
+                <div class="ptvr-valve-band">
+                    <span class="ptvr-band-label">Types of Valves Covered</span>
+                    <div class="ptvr-chip-group">
+                        <span class="ptvr-chip">Pressure Safety Valves</span>
+                        <span class="ptvr-chip">Control Valves</span>
+                        <span class="ptvr-chip">Gate Valves</span>
+                        <span class="ptvr-chip">Globe Valves</span>
+                        <span class="ptvr-chip">Ball Valves</span>
+                        <span class="ptvr-chip">Check Valves</span>
+                        <span class="ptvr-chip">Relief Valves</span>
+                        <span class="ptvr-chip">Butterfly Valves</span>
+                    </div>
+                </div>
+                <div class="ptvr-note">
+                    <strong>Workshop-ready support:</strong> ideal for routine maintenance, certification work, shutdown preparation, and fast-turnaround valve restoration.
+                </div>
+            </div>
+        </section>
 
 
         <!--  -->
@@ -121,5 +212,8 @@
     </div>
     <!-- /.container -->
 </section>
+
+
+
 
 <?php include('footer.php'); ?>

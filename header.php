@@ -60,175 +60,41 @@
                                             class="nav-link "
                                             href="./">Home</a>
                                     </li>
-                                    <!-- <li class="nav-item">
-                                        <a
-                                            class="nav-link "
-                                            href="about">About</a>
-                                    </li> -->
                                     <li class="nav-item dropdown">
                                         <a
                                             class="nav-link dropdown-toggle"
                                             href="#"
                                             data-bs-toggle="dropdown">Services</a>
                                         <ul class="dropdown-menu">
-                                            <li class="dropdown dropdown-submenu dropend">
+                                            <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
                                                     class="dropdown-item"
                                                     href="octg-inspection">OCTG</a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="drill-pipe-inspection">Drill Pipe Straightening</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="refacing-service">
-                                                            Refacing of API connections
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="thread-inspection">
-                                                            Thread Repair
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="drilling-handling-tools">
-                                                            DHT Service and Repair
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="high-pressure-washing">
-                                                            High-pressure washing and storage
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
                                             </li>
-                                            <li class="dropdown dropdown-submenu dropend">
+                                            <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
                                                     class="dropdown-item"
                                                     href="welding-fab">Welding and fabrication</a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="deployment-class-certified">
-                                                            Class Certified Welders
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="port-based-fabrication-services">
-                                                            Fabrication And Sea Fastening Services
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="structural-steel-repairs">
-                                                            Structural repairs and modifications
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
                                             </li>
-                                            <li class="dropdown dropdown-submenu dropend">
+                                            <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
                                                     class="dropdown-item"
                                                     href="corrosion-control-services">Corrosion control services</a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="riding-squad">Riding Squad</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="hydro-jetting-services">Hydro Jetting Services</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="abrasive-blasting">Abrasive Blasting And Painting</a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="helideck-maintenance">Helideck Maintenance</a>
-                                                    </li>
-                                                </ul> -->
                                             </li>
-                                            <!-- <li class="nav-item">
-                                                <a class="dropdown-item" href="marine-offshore-fabrication-services">Marine & Offshore <br /> Fabrication Services</a>
-                                            </li> -->
-                                            <!-- <li class="nav-item">
-                                                <a class="dropdown-item" href="load-testing">
-                                                    Load Testing, Wire Rope Socketing<br> & Wire Rope Spooling Solutions
-                                                </a>
-                                            </li> -->
 
                                             <!-- new -->
-                                            <li class="dropdown dropdown-submenu dropend">
+                                            <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a class="dropdown-item" href="pressure-testing-valve-repair">
                                                     Pressure testing and valve repair
                                                 </a>
-                                                <!-- <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="pressure-testing-services">
-                                                            Pressure Testing Services
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="valve-repair-servicing">
-                                                            Valve Repair & Servicing
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="flow-meter-calibration">
-                                                            Flow Meter Calibration
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="load-cell-calibration">
-                                                            Load Cell Calibration
-                                                        </a>
-                                                    </li>
-                                                </ul> -->
                                             </li>
                                             <li class="nav-item">
                                                 <a class="dropdown-item" href="load-testing">Load testing</a>
                                             </li>
-                                            <!-- <li class="dropdown dropdown-submenu dropend">
-                                                <a class="dropdown-item dropdown-toggle" href="load-testing">
-                                                    Loat testing
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="test-weight-and-tray">
-                                                            Provision of test weight and testing tray
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="load-test-water-bags">
-                                                            Provision of load test water bags and tensile load cells
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="test-bed-capacity">
-                                                            Tensile Test Bed capacity up to 300 tons<br> for destructive and non-destructive testing
-                                                        </a>
-                                                    </li>
-
-                                                </ul>
-                                            </li> -->
-                                            <!-- <li class="dropdown dropdown-submenu dropend">
-                                                <a class="dropdown-item dropdown-toggle" href="wire-rope-services">
-                                                    Wire rope socketing and spooling
-                                                </a>
-                                                <ul class="dropdown-menu">
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="wire-rope-socketing">
-                                                            Wire rope socketing
-                                                        </a>
-                                                    </li>
-                                                    <li class="nav-item">
-                                                        <a class="dropdown-item" href="wire-rope-spooling">
-                                                            Wire rope spooling
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </li> -->
                                             <li class="nav-item">
                                                 <a class="dropdown-item" href="wire-rope-services">Wire rope socketing and spooling</a>
                                             </li>
-
                                             <!-- end new -->
-
-
                                         </ul>
                                     </li>
                                     <li class="nav-item">
@@ -248,7 +114,7 @@
                                             <a href="mailto:repairs.qa@ariesmar.com" class="link-inverse">repairs.qa@ariesmar.com</a>
                                             <br />
                                             00974 44174897 <br />
-                                            <nav class="nav social social-white mt-4">
+                                            <nav class="nav social social-white mt-4 d-none">
                                                 <a href="#"><i class="uil uil-twitter"></i></a>
                                                 <a href="#"><i class="uil uil-facebook-f"></i></a>
                                                 <a href="#"><i class="uil uil-dribbble"></i></a>

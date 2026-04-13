@@ -2,7 +2,7 @@
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
    <div class="container pt-17 pb-17 pt-md-17 pb-md-10 text-center">
         <div class="row">
-            <div class="col-lg-8 mx-auto">
+            <div class="col-12 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Drill Pipe Straightening Service</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
