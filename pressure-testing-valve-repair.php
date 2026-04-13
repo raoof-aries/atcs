@@ -58,68 +58,64 @@
             <div class="ptvr-showcase-orb ptvr-showcase-orb-2"></div>
             <div class="ptvr-showcase-top">
                 <div class="ptvr-intro">
-                    <span class="ptvr-eyebrow">Facility Overview</span>
-                    <h3 class="ptvr-title">Integrated pressure testing and valve servicing under one controlled workshop environment.</h3>
-                    <p class="ptvr-lead">
-                        Built for critical assets and shutdown-sensitive operations, our facility combines inspection, repair, calibration, hydro and pneumatic testing, and final certification in one streamlined service flow.
-                    </p>
-                </div>
-                <div class="ptvr-stat-card">
-                    <span class="ptvr-stat-label">Service Coverage</span>
-                    <div class="ptvr-stat-value">3 Core Areas</div>
-                    <p>Pressure testing, facility capabilities, and valve servicing scope delivered with traceable, workshop-based execution.</p>
+                    <span class="ptvr-eyebrow">Service Details</span>
+                    <h3 class="ptvr-title">Pressure Testing and Valve Servicing</h3>
                 </div>
             </div>
 
             <div class="row g-4 ptvr-grid">
-                <div class="col-xl-4 col-md-6">
+                <div class="col-md-6">
                     <article class="ptvr-panel">
                         <div class="ptvr-panel-head">
                             <span class="ptvr-panel-kicker">01</span>
-                            <h4>Pressure Test Coverage</h4>
+                            <h4>Pressure Test</h4>
                         </div>
-                        <p class="ptvr-panel-copy">Comprehensive hydrostatic and pneumatic testing support for pressure-containing systems and connected components.</p>
                         <ul class="ptvr-list">
-                            <li>Valves including PSV, control valves, and isolation valves</li>
-                            <li>Cargo hoses and flexible hoses</li>
+                            <li>Valves (PSV, control valves, isolation valves, etc.)</li>
+                            <li>Cargo hoses / Flexible hoses</li>
                             <li>Chiksan lines and associated fittings</li>
                             <li>Pipelines and piping systems</li>
-                            <li>Silo tanks, air receivers, and air tanks</li>
+                            <li>Silo tanks</li>
+                            <li>Air receivers / Air tanks</li>
                             <li>Pressure vessels and related equipment</li>
                         </ul>
                     </article>
                 </div>
-                <div class="col-xl-4 col-md-6">
+                <div class="col-md-6">
                     <article class="ptvr-panel ptvr-panel-accent">
                         <div class="ptvr-panel-head">
                             <span class="ptvr-panel-kicker">02</span>
                             <h4>Valve Servicing Facility</h4>
                         </div>
-                        <p class="ptvr-panel-copy">A dedicated workshop layout designed for precise valve repair, finishing, testing, and clean reassembly.</p>
+                        <h5 class="ptvr-subtitle">Facility Capabilities:</h5>
                         <ul class="ptvr-list">
                             <li>Dedicated valve servicing workshop</li>
-                            <li>PSV test bench with air and water test capability</li>
+                            <li>PSV test bench (air/water test capability)</li>
                             <li>Lapping machines for seat finishing</li>
                             <li>Sandblasting and painting facilities</li>
-                            <li>Machining equipment including lathe and grinding</li>
-                            <li>Hydro and pneumatic test setups with clean assembly area</li>
+                            <li>Machining equipment (lathe, grinding)</li>
+                            <li>Hydro and pneumatic test setups</li>
+                            <li>Clean assembly area</li>
                         </ul>
                     </article>
                 </div>
-                <div class="col-xl-4 col-md-12">
+                <div class="col-md-12">
                     <article class="ptvr-panel ptvr-panel-dark">
                         <div class="ptvr-panel-head">
                             <span class="ptvr-panel-kicker">03</span>
                             <h4 style="color: #fff;">Scope of Service</h4>
                         </div>
-                        <p class="ptvr-panel-copy">Each valve passes through a structured repair and verification sequence focused on reliability, sealing performance, and readiness for return to service.</p>
                         <ul class="ptvr-list">
-                            <li>Inspection, condition assessment, dismantling, and reassembly</li>
+                            <li>Inspection and condition assessment of valves</li>
+                            <li>Dismantling and reassembly of valves</li>
                             <li>Cleaning, sandblasting, and surface preparation</li>
                             <li>Lapping of valve seats and discs</li>
-                            <li>Replacement of gaskets, seals, O-rings, and packing</li>
-                            <li>Minor machining, refurbishment, and set pressure adjustment</li>
-                            <li>Hydrostatic, pneumatic, leak, and seat tightness testing</li>
+                            <li>Replacement of soft parts (gaskets, seals, O-rings, packing)</li>
+                            <li>Minor machining and refurbishment</li>
+                            <li>Calibration and set pressure adjustment (for safety valves)</li>
+                            <li>Hydrostatic and pneumatic pressure testing</li>
+                            <li>Leak testing and seat tightness testing</li>
+                            <li>Painting and coating (if required)</li>
                         </ul>
                     </article>
                 </div>
@@ -129,18 +125,13 @@
                 <div class="ptvr-valve-band">
                     <span class="ptvr-band-label">Types of Valves Covered</span>
                     <div class="ptvr-chip-group">
-                        <span class="ptvr-chip">Pressure Safety Valves</span>
-                        <span class="ptvr-chip">Control Valves</span>
-                        <span class="ptvr-chip">Gate Valves</span>
-                        <span class="ptvr-chip">Globe Valves</span>
-                        <span class="ptvr-chip">Ball Valves</span>
-                        <span class="ptvr-chip">Check Valves</span>
-                        <span class="ptvr-chip">Relief Valves</span>
-                        <span class="ptvr-chip">Butterfly Valves</span>
+                        <span class="ptvr-chip">Pressure Safety Valves (PSV)</span>
+                        <span class="ptvr-chip">Control valves</span>
+                        <span class="ptvr-chip">Gate, globe, and ball valves</span>
+                        <span class="ptvr-chip">Check valves (NRV)</span>
+                        <span class="ptvr-chip">Relief valves</span>
+                        <span class="ptvr-chip">Butterfly valves</span>
                     </div>
-                </div>
-                <div class="ptvr-note">
-                    <strong>Workshop-ready support:</strong> ideal for routine maintenance, certification work, shutdown preparation, and fast-turnaround valve restoration.
                 </div>
             </div>
         </section>
@@ -166,7 +157,7 @@
         </div>
         <!--/.row -->
         <div class="row grid-view gx-md-8 gx-xl-10 gy-8 gy-lg-0 mb-md-10 justify-content-center">
-            <div class="col-6">
+            <div class="col-lg-6">
                 <div class="position-relative">
                     <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
                     <div class="card">

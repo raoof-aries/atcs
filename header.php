@@ -22,7 +22,7 @@
         href="./assets/css/fonts/urbanist.css"
         as="style"
         onload="this.rel='stylesheet'" />
-    <link rel="stylesheet" href="cstm-styles-ATCSS.css">
+    <link rel="stylesheet" href="cstm-styles-ATCSS-new-updations.css">
 </head>
 
 <body>

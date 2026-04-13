@@ -469,6 +469,15 @@
   color: var(--ptvr-ink);
 }
 
+.ptvr-subtitle {
+  margin-bottom: 0.9rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #8c6a66;
+}
+
 .ptvr-panel-copy {
   margin-bottom: 1rem;
   line-height: 1.8;
@@ -507,8 +516,8 @@
 }
 
 .ptvr-bottom {
-  display: grid;
-  grid-template-columns: minmax(0, 1.6fr) minmax(250px, 0.8fr);
+  /* display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(250px, 0.8fr); */
   gap: 1rem;
   margin-top: 2rem;
 }

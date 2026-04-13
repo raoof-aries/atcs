@@ -80,7 +80,7 @@
         </div>
         <!--/.row -->
         <div class="row grid-view gx-md-8 gx-xl-10 gy-8 gy-lg-0 mb-md-10 justify-content-center">
-            <div class="col-6">
+            <div class="col-lg-6">
                 <div class="position-relative">
                     <div class="shape rounded bg-soft-primary rellax d-md-block" data-rellax-speed="0" style="bottom: -0.75rem; right: -0.75rem; width: 98%; height: 98%; z-index:0"></div>
                     <div class="card">
