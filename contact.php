@@ -54,9 +54,25 @@
                                     </div>
                                     <div>
                                         <h5 class="mb-1">Phone</h5>
-                                        <a href="tel:00974 44174897">
+                                        <a href="tel:+974 44174897">
                                             <p>
-                                                00974 44174897
+                                                +974 44174897
+                                            </p>
+                                        </a>
+
+                                    </div>
+                                </div>
+                                <!--/div -->
+                                <!--/div -->
+                                <div class="d-flex flex-row">
+                                    <div>
+                                        <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i> </div>
+                                    </div>
+                                    <div>
+                                        <h5 class="mb-1">Phone</h5>
+                                        <a href="tel:+974 50808952">
+                                            <p>
+                                                +974 50808952
                                             </p>
                                         </a>
 
@@ -71,7 +87,7 @@
                                     <div>
                                         <h5 class="mb-1">Fax</h5>
                                         <p>
-                                            00974 44982656
+                                            +974 44982656
                                         </p>
                                     </div>
                                 </div>
