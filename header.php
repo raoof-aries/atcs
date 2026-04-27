@@ -12,7 +12,7 @@
         content="ATC Solutions, Industrial Applications, Professional Services" />
     <meta name="author" content="elemis" />
     <title>ATCS</title>
-    <link rel="shortcut icon" href="./assets/img/favicon.png" />
+    <!-- <link rel="shortcut icon" href="./assets/img/favicon.png" /> -->
     <link rel="stylesheet" href="./assets/css/plugins.css" />
     <link rel="stylesheet" href="./assets/css/style.css" />
     <link rel="stylesheet" href="./assets/css/colors/purple.css" />
@@ -30,7 +30,7 @@
         <div class="content-wrapper">
             <header class="wrapper">
                 <nav
-                    class="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark px-md-10 px-xxl-0">
+                    class="navbar navbar-expand-lg center-nav navbar-light bg-white px-md-10 px-xxl-0">
                     <div class="container flex-lg-row flex-nowrap align-items-center">
                         <div class="navbar-brand w-100">
                             <a href="./">
@@ -57,54 +57,54 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
                                         <a
-                                            class="nav-link "
+                                            class="nav-link fw-bold"
                                             href="./">Home</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                         <a
-                                            class="nav-link dropdown-toggle"
+                                            class="nav-link dropdown-toggle fw-bold"
                                             href="#"
                                             data-bs-toggle="dropdown">Services</a>
                                         <ul class="dropdown-menu">
                                             <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
-                                                    class="dropdown-item"
+                                                    class="dropdown-item fw-bold"
                                                     href="octg-inspection">OCTG</a>
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
-                                                    class="dropdown-item"
+                                                    class="dropdown-item fw-bold"
                                                     href="welding-fab">Welding and fabrication</a>
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
-                                                    class="dropdown-item"
+                                                    class="dropdown-item fw-bold"
                                                     href="corrosion-control-services">Corrosion control services</a>
                                             </li>
 
                                             <!-- new -->
                                             <li class="dropdown dropdown-submenu dropend dropBorder">
-                                                <a class="dropdown-item" href="pressure-testing-valve-repair">
+                                                <a class="dropdown-item fw-bold" href="pressure-testing-valve-repair">
                                                     Pressure testing and valve repair
                                                 </a>
                                             </li>
-                                            <li class="nav-item">
-                                                <a class="dropdown-item" href="load-testing">Load testing</a>
+                                            <li class="nav-item dropBorder">
+                                                <a class="dropdown-item fw-bold" href="load-testing">Load testing</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="dropdown-item" href="wire-rope-services">Wire rope socketing and spooling</a>
+                                                <a class="dropdown-item fw-bold" href="wire-rope-services">Wire rope socketing and spooling</a>
                                             </li>
                                             <!-- end new -->
                                         </ul>
                                     </li>
                                     <li class="nav-item">
                                         <a
-                                            class="nav-link "
+                                            class="nav-link fw-bold"
                                             href="index#gallery">Gallery</a>
                                     </li>
                                     <li class="nav-item">
                                         <a
-                                            class="nav-link "
+                                            class="nav-link fw-bold"
                                             href="contact">Contact Us</a>
                                     </li>
 

@@ -3,7 +3,7 @@
     <div
         class="wrapper image-wrapper bg-cover bg-image bg-overlay bg-overlay-650"
         data-image-src="./assets/img/custom/hero.jpg">
-        <div class="container pt-18 pt-lg-21 pb-17 pb-lg-19 text-center">
+        <div class="container pt-18 pt-lg-10 pb-17 pb-lg-10 text-center">
             <div class="row">
                 <div
                     class="col-md-9 col-lg-8 col-xl-7 col-xxl-8 mx-auto"
@@ -11,10 +11,10 @@
                     data-group="page-title"
                     data-interval="-200"
                     data-delay="500">
-                    <h3 class="display-1 fs-52 text-white mb-7">
+                    <h3 class="display-1 fs-52 text-white mb-3">
                         Welcome to Aries Trading Contracting and Services!
                     </h3>
-                    <p class="text-white fs-25 lh-sm mb-7 cstm-hero-desc">
+                    <p class="text-white fs-25 lh-sm mb-3 cstm-hero-desc">
                         Trusted repair and maintenance ensuring safety, efficiency, and lasting performance.
                     </p>
                     <div>
@@ -26,7 +26,7 @@
             <!-- /.row -->
         </div>
         <!-- /.container -->
-        <div class="overflow-hidden">
+        <!-- <div class="overflow-hidden">
             <div class="divider text-white mx-n2">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 60">
                     <path
@@ -34,7 +34,7 @@
                         d="M0,0V60H1440V0A5771,5771,0,0,1,0,0Z" />
                 </svg>
             </div>
-        </div>
+        </div> -->
         <!-- /.overflow-hidden -->
     </div>
     <!-- /.wrapper -->
@@ -42,7 +42,7 @@
 
 
 <section class="wrapper bg-light">
-    <div class="container py-10 py-md-14">
+    <div class="container py-10 py-md-8">
         <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
             <div class="col-lg-6 position-relative order-lg-2">
                 <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
@@ -212,7 +212,7 @@
 
 
 <section class="wrapper image-wrapper bg-image bg-overlay " data-image-src="assets/esol/img/common-images/7.JPG">
-    <div class="container py-18">
+    <div class="container py-8">
         <div class="row">
             <div class="col-lg-8">
                 <h2 class="fs-16 text-uppercase text-line text-white mb-3">LET’S WORK TOGETHER</h2>
@@ -227,7 +227,7 @@
     <!-- /.container -->
 </section>
 <section class="wrapper bg-light">
-    <div class="container pt-15 pt-md-17">
+    <div class="container pt-8 pt-md-10">
         <div class="row align-items-center">
             <div class="col-md-8 col-lg-6 order-lg-2">
                 <figure class="rounded"><img src="assets/esol/img/common-images/35.JPG" srcset="assets/esol/img/common-images/35.JPG 2x" alt=""></figure>
@@ -266,7 +266,7 @@
 </div>
 <!-- /.content-wrapper -->
 <section class="wrapper bg-light">
-    <div class="container-card py-15 pt-md-17">
+    <div class="container-card py-8 pt-md-10">
         <div class="card image-wrapper bg-full bg-image bg-overlay bg-overlay-light-500" data-image-src="./assets/img/photos/bg22.png">
             <div class="card-body py-14 px-0">
                 <div class="container">
@@ -331,7 +331,7 @@
     </div>
     <!-- /.container -->
     <div class="container-fluid px-md-6">
-        <div class="swiper-container blog grid-view mb-17 mb-md-19" data-margin="30" data-nav="true" data-dots="true" data-items-xxl="3" data-items-md="2" data-items-xs="1">
+        <div class="swiper-container blog grid-view mb-15 mb-md-15" data-margin="30" data-nav="true" data-dots="true" data-items-xxl="3" data-items-md="2" data-items-xs="1">
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
