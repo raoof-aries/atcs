@@ -22,7 +22,7 @@
         href="./assets/css/fonts/urbanist.css"
         as="style"
         onload="this.rel='stylesheet'" />
-    <link rel="stylesheet" href="cstm-styles-ATCSS-new-updations.css">
+    <link rel="stylesheet" href="cstm-styles.css">
 </head>
 
 <body>
@@ -31,7 +31,7 @@
             <header class="wrapper">
                 <nav
                     class="navbar navbar-expand-lg center-nav navbar-light bg-white px-md-10 px-xxl-0">
-                    <div class="container flex-lg-row flex-nowrap align-items-center">
+                    <div class="container flex-lg-row flex-nowrap align-items-center py-0 py-lg-3">
                         <div class="navbar-brand w-100">
                             <a href="./">
                                 <img
@@ -54,15 +54,15 @@
                                     aria-label="Close"></button>
                             </div>
                             <div class="offcanvas-body ms-lg-auto d-flex flex-column h-100">
-                                <ul class="navbar-nav">
+                                <ul class="navbar-nav gap-3">
                                     <li class="nav-item">
                                         <a
-                                            class="nav-link fw-bold"
+                                            class="nav-link fw-bold navBorder"
                                             href="./">Home</a>
                                     </li>
                                     <li class="nav-item dropdown">
                                         <a
-                                            class="nav-link dropdown-toggle fw-bold"
+                                            class="nav-link dropdown-toggle fw-bold navBorder"
                                             href="#"
                                             data-bs-toggle="dropdown">Services</a>
                                         <ul class="dropdown-menu">
@@ -99,12 +99,12 @@
                                     </li>
                                     <li class="nav-item">
                                         <a
-                                            class="nav-link fw-bold"
+                                            class="nav-link fw-bold navBorder"
                                             href="index#gallery">Gallery</a>
                                     </li>
                                     <li class="nav-item">
                                         <a
-                                            class="nav-link fw-bold"
+                                            class="nav-link fw-bold navBorder"
                                             href="contact">Contact Us</a>
                                     </li>
 

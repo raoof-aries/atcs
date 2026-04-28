@@ -1397,3 +1397,11 @@
   border-bottom: 1px solid #dcd9d9;
   padding: 5px 0;
 }
+
+@media (min-width: 992px) {
+  .navBorder {
+    border: 1px solid #dcd9d9;
+    padding: 5px 30px !important;
+    border-radius: 20px;
+  }
+}
