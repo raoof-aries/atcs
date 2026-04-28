@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
-   <div class="container pt-17 pb-17 pt-md-17 pb-md-10 text-center">
+   <div class="container pt-10 pb-10 pt-md-12 pb-md-10 text-center">
         <div class="row">
             <div class="col-12 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Bottom Hole Assembly Inspection</h1>
