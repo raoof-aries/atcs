@@ -3,7 +3,7 @@
     <div
         class="wrapper image-wrapper bg-cover bg-image bg-overlay bg-overlay-650"
         data-image-src="./assets/img/custom/hero.jpg">
-        <div class="container pt-18 pt-lg-10 pb-17 pb-lg-10 text-center">
+        <div class="container pt-10 pt-lg-8 pb-10 pb-lg-17 text-center">
             <div class="row">
                 <div
                     class="col-md-9 col-lg-8 col-xl-7 col-xxl-8 mx-auto"
@@ -41,11 +41,11 @@
 </section>
 
 
-<section class="wrapper bg-light">
+<section class="wrapper aboutUS">
     <div class="container py-10 py-md-8">
         <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
             <div class="col-lg-6 position-relative order-lg-2">
-                <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div>
+                <!-- <div class="shape bg-dot primary rellax w-16 h-20" data-rellax-speed="1" style="top: 3rem; left: 5.5rem"></div> -->
                 <div class="overlap-grid overlap-grid-2">
                     <div class="item">
                         <figure class="rounded shadow"><img src="assets/esol/img/common-images/abt-2.png" srcset="assets/esol/img/common-images/abt-2.png 2x" alt=""></figure>
@@ -57,11 +57,11 @@
             </div>
             <!--/column -->
             <div class="col-lg-6">
-                <h2 class="display-4 mb-3">
+                <h2 class="display-4 mb-3 aboutUS-title">
                     Welcome to Aries Trading Contracting and Services!
                 </h2>
-                <p class="">
-                    Aries Marine Co WLL has been a leader in providing accurate services in the different discipline since its inception 2009, we are equipped and powered by a team of committed professionals and Engineers using cutting edge technology. We provide a wide range of services to clients among Oil & Gas, Offshore, Onshore, Marine, petrochemical, power construction, Engineering, pharmaceutical, hotel and industrial sector.
+                <p class="aboutUS-desc">
+                    Aries Trading Contracting and Services has been a leader in providing accurate services in the different discipline since its inception 2025, we are equipped and powered by a team of committed professionals and Engineers using cutting edge technology. We provide a wide range of services to clients among Oil & Gas, Offshore, Onshore, Marine, petrochemical, power construction, Engineering, pharmaceutical, hotel and industrial sector.
                 </p>
                 <!-- <p class="mb-6">
                     Explore our services and see how we can help you enhance performance and reliability today!
@@ -94,7 +94,7 @@
 
     <div class="wwd-grid">
 
-        <a class="wwd-card" href="octg-inspection">
+        <a class="wwd-card" href="octg">
             <div class="card-strip"></div>
             <div class="card-head">
                 <div class="card-icon-wwd-card">🔩</div>
@@ -331,7 +331,7 @@
     </div>
     <!-- /.container -->
     <div class="container-fluid px-md-6">
-        <div class="swiper-container blog grid-view mb-15 mb-md-15" data-margin="30" data-nav="true" data-dots="true" data-items-xxl="3" data-items-md="2" data-items-xs="1">
+        <div class="swiper-container blog grid-view mb-15 mb-md-15" data-margin="30" data-nav="true" data-dots="true" data-items-xxl="5" data-items-md="2" data-items-xs="1">
             <div class="swiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">

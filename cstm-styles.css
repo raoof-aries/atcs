@@ -1373,6 +1373,19 @@
   transform: translateX(5px);
 }
 
+/* about us */
+.aboutUS {
+  background: #091e32;
+}
+.aboutUS-title {
+  color: #fff;
+}
+.aboutUS-desc {
+  color: #fff;
+  opacity: 0.8;
+}
+/* end about us */
+
 @media (max-width: 768px) {
   /* .section-title {
     font-size: 2.2rem;

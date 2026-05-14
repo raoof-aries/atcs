@@ -7,12 +7,12 @@
                     <p class="mb-4 text-start">© <script>
                             document.write(new Date().getUTCFullYear());
                         </script> Aries e-Solutions. All rights reserved.</p>
-                    <nav class="nav social social-white">
+                    <!-- <nav class="nav social social-white">
                         <a href="#"><i class="uil uil-twitter"></i></a>
                         <a href="#"><i class="uil uil-facebook-f"></i></a>
                         <a href="#"><i class="uil uil-instagram"></i></a>
                         <a href="#"><i class="uil uil-youtube"></i></a>
-                    </nav>
+                    </nav> -->
                     <!-- /.social -->
                 </div>
                 <!-- /.widget -->

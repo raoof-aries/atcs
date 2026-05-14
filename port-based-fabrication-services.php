@@ -38,7 +38,7 @@
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/g4.jpg" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/port-based-fabrication-services/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/welding-fabrication/port-based-fabrication-services/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>

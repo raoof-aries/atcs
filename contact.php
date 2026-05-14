@@ -1,12 +1,13 @@
 <?php include('header.php'); ?>
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
-    <div class="container pt-17 pb-17 pt-md-19 pb-md-21 text-center">
+    <!-- <div class="container pt-17 pb-17 pt-md-19 pb-md-21 text-center"> -->
+    <div class="container pt-10 pb-20 pt-md-10 pb-md-20 text-center">
         <div class="row">
             <div class="col-12 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Contact Us</h1>
                 <nav class="d-inline-block" aria-label="breadcrumb">
                     <ol class="breadcrumb text-white">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item"><a href="./">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Contact</li>
                     </ol>
                 </nav>
@@ -73,6 +74,22 @@
                                         <a href="tel:+974 50808952">
                                             <p>
                                                 +974 50808952
+                                            </p>
+                                        </a>
+
+                                    </div>
+                                </div>
+                                <!--/div -->
+                                <!--/div -->
+                                <div class="d-flex flex-row">
+                                    <div>
+                                        <div class="icon text-primary fs-28 me-4 mt-n1"> <i class="uil uil-phone-volume"></i> </div>
+                                    </div>
+                                    <div>
+                                        <h5 class="mb-1">Phone</h5>
+                                        <a href="tel:+974 33912374">
+                                            <p>
+                                                +974 33912374
                                             </p>
                                         </a>
 

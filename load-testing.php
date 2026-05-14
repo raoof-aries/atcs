@@ -45,7 +45,7 @@
                 </h2>
                 <ul class="icon-list bullet-bg bullet-soft-primary">
                     <li><span><i class="uil uil-check"></i></span><span>
-                            Provision of test weight in various configurations up to 200 tons and test tray up to 120 tons.
+                            Provision of test weights in various configurations up to 200 tons and test tray up to 120 tons.
                         </span>
                     </li>
                     <li><span><i class="uil uil-check"></i></span><span>
@@ -53,7 +53,7 @@
                         </span>
                     </li>
                     <li><span><i class="uil uil-check"></i></span><span>
-                            Tensile Test Bed capacity up to 300 tons for destructive and non-destructive testing
+                            Tensile Test Bed with a capacity up to 300 tons for destructive and non-destructive testing
                         </span>
                     </li>
                 </ul>

@@ -69,7 +69,7 @@
                                             <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
                                                     class="dropdown-item fw-bold"
-                                                    href="octg-inspection">OCTG</a>
+                                                    href="octg">OCTG</a>
                                             </li>
                                             <li class="dropdown dropdown-submenu dropend dropBorder">
                                                 <a
