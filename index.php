@@ -18,7 +18,7 @@
                         Trusted repair and maintenance ensuring safety, efficiency, and lasting performance.
                     </p>
                     <div>
-                        <a class="btn btn-primary rounded-pill mt-2 ">Get Quote</a>
+                        <a href="contact" class="btn btn-primary rounded-pill mt-2 ">Get Quote</a>
                     </div>
                 </div>
                 <!-- /column -->

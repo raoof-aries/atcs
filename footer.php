@@ -43,8 +43,9 @@
 
                     </address>
                     <a href="mailto:repairs.qa@ariesmar.com">repairs.qa@ariesmar.com</a><br />
-                    <a href="tel:+974 44174897">+974 44174897</a> / 
-                    <a href="tel:+974 50808952">+974 50808952</a>
+                    <a href="tel:+974 44174897">+974 44174897</a> | 
+                    <a href="tel:+974 50808952">+974 50808952</a> |
+                    <a href="tel:+974 33912374">+974 33912374</a> 
                     
                     <br />
                 </div>

@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 <section class="wrapper image-wrapper bg-overlay bg-overlay-400 text-white innerPageBannerContainer">
-   <div class="container pt-10 pb-10 pt-md-12 pb-md-10 text-center">
+    <div class="container pt-10 pb-10 pt-md-12 pb-md-10 text-center">
         <div class="row">
             <div class="col-12 mx-auto">
                 <h1 class="display-1 mb-3 text-white">Structural repairs and modifications</h1>
@@ -38,7 +38,7 @@
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="./assets/img/photos/g4.jpg" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/welding-fabrication/deployment-class-certified-welders/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>
@@ -50,7 +50,7 @@
                     Structural Steel Repairs
                 </h2>
                 <p class="lead mb-8 pe-xxl-2">
-                    We provide repairs service in tanks, decks, and hulls as per class recommendations and inspection reports.
+                    We provide professional structural steel repair services for tanks, decks, and hull structures in accordance with class recommendations, inspection findings, and industry standards. Our experienced team specializes in identifying structural damages, corrosion, cracks, and weakened sections, ensuring timely and reliable repair solutions to maintain the safety, integrity, and operational efficiency of marine and industrial structures.
                 </p>
             </div>
             <!--/column -->
@@ -76,7 +76,7 @@
                     </div>
                     <!--/column -->
                     <div class="col-md-4 align-self-start">
-                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/structural-piping-modifications/" srcset="./assets/img/photos/g4@2x.jpg 2x" alt=""></figure>
+                        <figure class="rounded"><img src="assets/esol/img/service-images/welding-fabrication/structural-piping-modifications/atcs-service-bottom-right.png" srcset="assets/esol/img/service-images/welding-fabrication/structural-piping-modifications/atcs-service-bottom-right.png 2x" alt=""></figure>
                     </div>
                     <!--/column -->
                 </div>
